@@ -1,0 +1,62 @@
+\documentclass[11pt,a4paper,twocolumn]{article}
+
+
+% Please just add any extra packages in mystyle.sty
+\usepackage[utf8]{inputenc}   % proper encoding
+\usepackage[T1]{fontenc}      % font encoding
+\usepackage{amsmath, amssymb} % math symbols
+\usepackage{graphicx}         % figures
+\usepackage{multicol}         % for multicols
+\usepackage{hyperref}         % clickable references
+\usepackage{fancyhdr}		  % for footers
+\usepackage{geometry}         % page margins
+\usepackage{titling}  % allows subtitles
+\geometry{margin=1in}         % standard margin
+\usepackage{caption}
+\usepackage{booktabs}
+\usepackage{makecell}
+\usepackage{natbib}
+
+
+\setlength{\intextsep}{5.0pt plus 2.0pt minus 2.0pt}
+\setlength{\textfloatsep}{5.0pt plus 2.0pt minus 2.0pt}
+
+% Set fancy page style
+\pagestyle{fancy}       % activate fancyhdr
+\fancyhf{}              % clears all default header and footer content
+
+
+\title{WorldBank Assignment}
+\author{John Francis Viray \and Raia Oximas}
+\date{May 2025}
+
+\begin{document}
+
+% Full-width title
+\twocolumn[%
+\maketitle
+\begin{abstract}
+\input{sections/0_abstract}
+\end{abstract}
+\vspace{1em}
+]
+
+\section{Crosswalk MCA Jobs with SOC Codes}
+\input{sections/1_crosswalk_mca_soc}
+
+\section{Assign AIOE Scores to SOC Codes}
+\input{sections/2_soc_aioe.tex}
+
+\section{Assign Complementarity Scores to SOC Codes}
+\input{sections/3_soc_comple.tex}
+
+\section{Analyze Data}
+\input{sections/4_analysis.tex}
+
+\section{Limitations and Recommendations}
+\input{sections/5_lim_rec.tex}
+
+\bibliographystyle{apalike}  % or plain, abbrv, IEEE, etc.
+\bibliography{references}    % without the .bib extension
+
+\end{document}
