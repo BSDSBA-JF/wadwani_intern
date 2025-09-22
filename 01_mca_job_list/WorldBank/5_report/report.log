@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  22 SEP 2025 09:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  22 SEP 2025 09:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -502,56 +502,57 @@ Package pdftex.def Info: ../figures/funnel_jobs.png  used on input line 16.
 [1{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
 
 
- <../figures/funnel_jobs.png>]) (./sections/2_soc_aioe.tex)
+ <../figures/funnel_jobs.png>]) (./sections/2_soc_aioe.tex
+<../figures/histograms_aioe.png, id=70, 1149.093pt x 354.123pt>
+File: ../figures/histograms_aioe.png Graphic file (type png)
+<use ../figures/histograms_aioe.png>
+Package pdftex.def Info: ../figures/histograms_aioe.png  used on input line 18.
+(pdftex.def)             Requested size: 221.48395pt x 68.25668pt.
+)
 Underfull \hbox (badness 10000) in paragraph at lines 50--50
 []\T1/cmr/bx/n/14.4 Assign Com-ple-men-tar-ity
  []
 
 (./sections/3_soc_comple.tex
+
+
 Underfull \hbox (badness 2512) in paragraph at lines 6--7
 []\T1/cmr/bx/n/10.95 Criticality \T1/cmr/m/n/10.95 -- Con-se-quence of Er-rors,
  []
 
-<../figures/correls.png, id=71, 859.2903pt x 426.1521pt>
+<../figures/correls.png, id=74, 859.2903pt x 426.1521pt>
 File: ../figures/correls.png Graphic file (type png)
 <use ../figures/correls.png>
 Package pdftex.def Info: ../figures/correls.png  used on input line 16.
 (pdftex.def)             Requested size: 221.48395pt x 109.84105pt.
+)
 
-
-) (./sections/4_analysis.tex
-<../figures/framework.jpg, id=73, 1001.99344pt x 813.0375pt>
+[2 <../figures/histograms_aioe.png>] (./sections/4_analysis.tex
+<../figures/framework.jpg, id=100, 1001.99344pt x 813.0375pt>
 File: ../figures/framework.jpg Graphic file (type jpg)
 <use ../figures/framework.jpg>
 Package pdftex.def Info: ../figures/framework.jpg  used on input line 17.
 (pdftex.def)             Requested size: 221.48395pt x 179.7124pt.
 
 
-[2 <../figures/correls.png>]
-<../figures/aioe_comple.png, id=95, 488.3043pt x 415.3116pt>
+<../figures/aioe_comple.png, id=103, 488.3043pt x 415.3116pt>
 File: ../figures/aioe_comple.png Graphic file (type png)
 <use ../figures/aioe_comple.png>
 Package pdftex.def Info: ../figures/aioe_comple.png  used on input line 59.
 (pdftex.def)             Requested size: 221.48395pt x 188.37772pt.
 
 
-<../figures/sector_caioe.png, id=97, 982.1493pt x 377.4903pt>
+[3 <../figures/correls.png> <../figures/framework.jpg>]
+<../figures/sector_caioe.png, id=114, 982.1493pt x 377.4903pt>
 File: ../figures/sector_caioe.png Graphic file (type png)
 <use ../figures/sector_caioe.png>
 Package pdftex.def Info: ../figures/sector_caioe.png  used on input line 79.
 (pdftex.def)             Requested size: 221.48395pt x 85.12749pt.
-) (./sections/5_lim_rec.tex
-Underfull \vbox (badness 4765) has occurred while \output is active []
+) (./sections/5_lim_rec.tex)
 
+(./report.bbl)
 
-
-[3 <../figures/framework.jpg> <../figures/aioe_comple.png> <../figures/sector_caioe.png>]) (./report.bbl)
-
-
-
-[4
-
-] (./report.aux)
+[4 <../figures/aioe_comple.png> <../figures/sector_caioe.png>] (./report.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
@@ -560,18 +561,18 @@ Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: 0936E492EBDAF8DD1910B8FE4B54B237;1465.
  ) 
 Here is how much of TeX's memory you used:
- 13067 strings out of 473190
- 203846 string characters out of 5715801
- 614715 words of memory out of 5000000
- 36100 multiletter control sequences out of 15000+600000
+ 13076 strings out of 473190
+ 204136 string characters out of 5715801
+ 614819 words of memory out of 5000000
+ 36108 multiletter control sequences out of 15000+600000
  576373 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,16n,79p,483b,453s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb>
-Output written on report.pdf (4 pages, 1134476 bytes).
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb>
+Output written on report.pdf (4 pages, 1237619 bytes).
 PDF statistics:
- 206 PDF objects out of 1000 (max. 8388607)
- 153 compressed objects within 2 object streams
- 36 named destinations out of 1000 (max. 500000)
- 90 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 219 PDF objects out of 1000 (max. 8388607)
+ 162 compressed objects within 2 object streams
+ 37 named destinations out of 1000 (max. 500000)
+ 95 words of extra memory for PDF output out of 10000 (max. 10000000)
 
