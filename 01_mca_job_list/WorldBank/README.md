@@ -1,0 +1,10 @@
+This study evaluates how AI affects Filipino jobs found in My Career Advisor (MCA). The occupations were mapped to the Standard Occupational Classification (SOC) codes of the O*NET database via PSOC and ISCO crosswalks. 
+
+To measure the effects of AI, the AI Occupational Exposure (AIOE) and complementarity index were computed following Felten et al. (2021) and Pizzinelli et al. (2023), with 16.9\% of values imputed. 
+Jobs were classified into four types: Augmentable, Automatable, Protected, and Isolated. 
+
+Higher-educated workers hold 46\% of Augmentable jobs versus 8\% for less-educated, while 43\% of less-educated jobs are Isolated. 
+
+Sector-level C-AIOE analysis shows financial services, administrative support, and ICT face the highest AI exposure, whereas construction, agriculture, and manufacturing are lowest. 
+
+These findings highlight heterogeneous AI risks across sectors and educational pathways, offering insights for workforce planning.
