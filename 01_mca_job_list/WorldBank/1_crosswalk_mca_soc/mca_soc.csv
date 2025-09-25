@@ -73,6 +73,7 @@ Automotive Chassis Mechanic,Manufacturing                                       
 Automotive Electrical Assembly Technician,Manufacturing                                                ,Manufacture of parts and accessories for motor vehicles,Not Higher Education,No,No,3113.0,3113,17-3024
 Automotive Engine Specialist,Manufacturing                                                ,Manufacture of parts and accessories for motor vehicles,Not Higher Education,No,No,2144.0,2144,17-2141 
 Automotive Maintenance Staff,Manufacturing                                                ,Manufacture of parts and accessories for motor vehicles,Not Higher Education,No,No,7231.0,7231,49-3093
+Automotive Mechanic Specialized In EV Power,Manufacturing                                                ,Manufacture of batteries and accumulators,Not Higher Education,No,No,7414.0,,49-3023
 Automotive Mechanical Assembly Technician,Manufacturing                                                ,Manufacture of parts and accessories for motor vehicles,Not Higher Education,No,No,8211.0,8211,51-2031
 Automotive Painter (Transportation and Storage),Transportation and Storage,Support activities for transportation,Not Higher Education,No,No,7132.0,7132,51-9122
 Automotive Painting Machine Operator,Manufacturing                                                ,Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers,Not Higher Education,No,No,8122.0,8122,51-9192 
@@ -160,6 +161,7 @@ Chemical Informatics Assistant,Manufacturing                                    
 Chemical Lab Technologist,"Professional, Scientific and Technical Activities",Research and experimental development on natural sciences and engineering,Higher Education,No,Yes,3116.0,3116,17-3029
 Chemical Process Operator,Manufacturing                                                ,Manufacture of basic chemicals,Not Higher Education,No,No,3133.0,3133,51-8091
 Chemical Production Technician,Manufacturing                                                ,Manufacture of basic chemicals,Higher Education,Yes,No,3133.0,3133,51-8091
+Chemical Sprayer,"Agriculture, Forestry, and Fishing",Support activities to agriculture and post-harvest crop activities,Not Higher Education,No,No,6110.0,,37-3012.00
 Child Caregiver,Human Health and Social Work Activities,"Other residential care activities, n.e.c.",Not Higher Education,No,No,5311.0,5311,39-9011
 Child Development Worker/Teacher,Education,Other education services,Not Higher Education,No,No,5311.0,5311,39-9011
 China Desk Specialist,"Professional, Scientific and Technical Activities",Research and experimental development on social sciences and humanities,Higher Education,No,No,2422.0,2422,13-1199
@@ -241,6 +243,7 @@ Control Systems Technician,"Electricity, Gas, Steam and Air Conditioning Supply"
 Cook,Accommodation and Food Service Activities,Event catering and other food service activities,Not Higher Education,No,No,5120.0,5120,35-2019
 Cook (Healthcare Facility),Human Health and Social Work Activities,Hospital activities,Not Higher Education,No,No,5120.0,5120,35-2019
 Cooling Systems Technician,"Electricity, Gas, Steam and Air Conditioning Supply","Electric power generation, transmission and distribution",Higher Education,No,Yes,3114.0,3114,17-3023
+Co-op Administrative Support,Administrative and Support Service Activities,"Business support service activities, n.e.c.",Higher Education,No,Yes,4111.0,,43-601
 Cooperative Assistant,Administrative and Support Service Activities,"Business support service activities, n.e.c.",Higher Education,No,Yes,3343.0,3343,43-6011
 Cooperative Development Officer,"Agriculture, Forestry, and Fishing",Support activities to agriculture and post-harvest crop activities,Higher Education,No,No,2424.0,2424,13-1151 
 Corporate Auditor,Financial and Insurance Activities,Activities of holding companies,Higher Education,Yes,No,2411.0,2411,13-2082
@@ -336,6 +339,7 @@ Elevator Attendant,Accommodation and Food Service Activities,Short term accommod
 Elevator Installation Technician,Construction,"Electrical, plumbing and other construction installation activities",Not Higher Education,No,No,3115.0,3115,17-3029
 Elevator Installer,Construction,Other specialized construction activities,Not Higher Education,No,No,3115.0,3115,17-3029
 Embalmer,Human Health and Social Work Activities,Other human health activities,Not Higher Education,No,No,5163.0,5163,39-4031
+Embassy Administrative Attaché,Public Administration and Defense; Compulsory Social Security,Foreign affairs,Higher Education,No,Yes,4111.0,,43-6011
 Embedded Systems Developer,Information and Communication,"Computer Programming, Consultancy and Related Activities",Higher Education,No,No,2512.0,2512,15-1133
 Embedded Systems Technician,Manufacturing                                                ,Manufacture of electronic components,Higher Education,Yes,No,7422.0,7422,49-9052
 Embroiderer,Manufacturing                                                ,Manufacture of knitted and crocheted apparel,Not Higher Education,No,No,7533.0,7533,51-6051
@@ -646,6 +650,7 @@ Linguistics Analyst,"Professional, Scientific and Technical Activities",Research
 Linguistics Researcher,"Professional, Scientific and Technical Activities",Research and experimental development on social sciences and humanities,Higher Education,No,No,2353.0,2353,25-3099 
 Literary Reviewer,Information and Communication,"Publishing of books, periodicals and other publishing activities",Higher Education,No,No,2641.0,2641,27-3043
 Livelihood Education Teacher,Education,Secondary/high school education,Higher Education,Yes,No,2330.0,2330,25-2031
+Livestock Agriculture Technician,"Agriculture, Forestry, and Fishing",Animal production,Higher Education,Yes,No,3144.0,,19-4012
 Livestock Health Technician,Manufacturing                                                ,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Not Higher Education,No,No,3240.0,3240,31-9096
 Livestock Raiser,"Agriculture, Forestry, and Fishing",Animal production,Not Higher Education,No,No,6121.0,6121 p,45-2093
 Loan Processing Assistant,Financial and Insurance Activities,Monetary intermediation,Higher Education,No,Yes,4213.0,4213,43-3099 
@@ -725,6 +730,7 @@ Microbiology Lab Assistant,"Professional, Scientific and Technical Activities",R
 Microfinance Loan Officer,Financial and Insurance Activities,Monetary intermediation,Not Higher Education,No,No,3312.0,3312,13-2072 
 Millwright,Construction,Construction of buildings,Higher Education,No,No,7233.0,7233,49-9081
 Mine Safety Engineer,Mining and Quarrying,Mining of Metal Ores,Higher Education,Yes,No,2149.0,2149,17-2199
+Ministry Program Assistant,Human Health and Social Work Activities,"Other social work activities without accommodation, n.e.c.",Higher Education,No,Yes,4111.0,,43-406
 MIS Technical Support (Healthcare),Human Health and Social Work Activities,Hospital activities,Higher Education,No,No,3512.0,3512,15-1151 
 Mobile Air-Conditioning (MAC) Technician,"Electricity, Gas, Steam and Air Conditioning Supply",Airconditioning and Refrigeration,Not Higher Education,No,No,7127.0,7127,49-9021 
 Mobile Phones And Handheld Gadgets Technician,Manufacturing                                                ,Manufacture of consumer electronics,Not Higher Education,No,No,3114.0,3114,17-3023
@@ -963,6 +969,7 @@ Security Operations Center (SOC) Analyst,Information and Communication,"Data pro
 Security Operations Staff,Administrative and Support Service Activities,Private security activities,Higher Education,No,No,5414.0,5414,33-9093 
 Semiconductor Machine Technician,Manufacturing                                                ,Manufacture of electronic components,Not Higher Education,No,No,3114.0,3114,17-3023
 Semiconductor Production Operator,Manufacturing                                                ,Manufacture of electronic components,Not Higher Education,No,No,8189.0,8189,53-7011
+Seminary Support Staff,Human Health and Social Work Activities,"Other social work activities without accommodation, n.e.c.",Higher Education,No,No,4111.0,,21-2099
 Senior Caregiver,Human Health and Social Work Activities,Residential care activities for the elderly and disabled,Not Higher Education,No,No,5321.0,5321,31-1014 
 Service Vehicle Drivers,Construction,Construction of buildings,Higher Education,No,No,8322.0,8322 p,53-3053
 Session Guitarist,"Arts, Entertainment and Recreation","Creative, arts and entertainment activities",Higher Education,No,No,2652.0,2652,27-2042
