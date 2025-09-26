@@ -7,7 +7,7 @@ Job Title,Job Sector,Job Subsector,Educational Pathway,HEI with PRC (Professiona
 4-Wheel Tractor Mechanic,"Agriculture, Forestry, and Fishing",Support activities to agriculture and post-harvest crop activities,Not Higher Education,No,No,-1.049182638556866,0.7641666666666665
 Abaca Fiber Stripper And Classifier,"Agriculture, Forestry, and Fishing",Support activities to agriculture and post-harvest crop activities,Not Higher Education,No,No,-0.8841484845166345,0.48583333333333334
 Abaca Grower,"Agriculture, Forestry, and Fishing",Growing of perennial crops,Not Higher Education,No,No,-2.0896117392961986,0.49916666666666676
-Academic Researcher,"Professional, Scientific and Technical Activities",Research and experimental development on social sciences and humanities,Higher Education,No,No,1.1982784617699302,0.6162967995169083
+Academic Researcher,"Professional, Scientific and Technical Activities",Research and experimental development on social sciences and humanities,Higher Education,No,No,1.1962758695210862,0.6164937943262411
 Accounting Clerk (Healthcare),Human Health and Social Work Activities,Hospital activities,Higher Education,No,Yes,1.0204933974998105,0.5122222222222222
 Accounting Professional (Manufacturing),Manufacturing,"Other manufacturing, n.e.c.",Higher Education,Yes,No,1.3620743346972182,0.45416666666666666
 Accounting Staff (Construction),Construction,Construction of buildings,Higher Education,No,No,1.0204933974998105,0.5122222222222222
@@ -16,26 +16,26 @@ Actuarial Assistant (Healthcare),Human Health and Social Work Activities,Hospita
 Admin Assistant (Construction),Construction,Construction of buildings,Higher Education,No,Yes,0.9698125993622836,0.48055555555555557
 Admin Staff (Healthcare),Human Health and Social Work Activities,Hospital activities,Higher Education,No,Yes,1.0600457450196432,0.5005555555555555
 Administrative Assistant,Administrative and Support Service Activities,Office administrative and support activities,Higher Education,No,Yes,1.0600457450196432,0.5005555555555555
-Advertising Clerk (Tourism),"Professional, Scientific and Technical Activities",Advertising,Higher Education,No,Yes,1.0117367283079466,0.5210816125860372
+Advertising Clerk (Tourism),"Professional, Scientific and Technical Activities",Advertising,Higher Education,No,Yes,1.0117367283079466,0.5203728070175438
 Aesthetician,Other Service Activities,"Personal services for wellness, except sports activities",Not Higher Education,No,No,-0.1802445932619149,0.6108333333333333
 Agribusiness Assistant,"Agriculture, Forestry, and Fishing",Support activities to agriculture and post-harvest crop activities,Higher Education,No,Yes,-1.826941747515469,0.49500000000000005
 Agricultural Data Assistant,"Agriculture, Forestry, and Fishing",Support activities to agriculture and post-harvest crop activities,Higher Education,No,Yes,1.2355878663736692,0.5585861823361823
 Agricultural Engineer,"Agriculture, Forestry, and Fishing",Support activities to agriculture and post-harvest crop activities,Higher Education,Yes,No,1.167377784026609,0.6280555555555556
 Agricultural Extension Officer,"Agriculture, Forestry, and Fishing",Support activities to agriculture and post-harvest crop activities,Higher Education,Yes,No,-0.6777790981433184,0.7088888888888888
-Agricultural Lab Technician,"Professional, Scientific and Technical Activities",Research and experimental development on natural sciences and engineering,Higher Education,Yes,No,1.1982784617699302,0.6162967995169083
+Agricultural Lab Technician,"Professional, Scientific and Technical Activities",Research and experimental development on natural sciences and engineering,Higher Education,Yes,No,1.1962758695210862,0.6164937943262411
 Agricultural Laboratory Assistant,"Agriculture, Forestry, and Fishing",Support activities to agriculture and post-harvest crop activities,Higher Education,No,Yes,0.1555959054689412,0.5997222222222222
 Agricultural Machinery Operator,"Agriculture, Forestry, and Fishing",Support activities to agriculture and post-harvest crop activities,Not Higher Education,No,No,-1.012423592144586,0.5769444444444445
 Agricultural RPA Pilot,"Agriculture, Forestry, and Fishing",Support activities to agriculture and post-harvest crop activities,Not Higher Education,No,No,-0.2057925090763235,0.7225
 Agricultural Specialist,"Agriculture, Forestry, and Fishing",Support activities to agriculture and post-harvest crop activities,Higher Education,Yes,No,0.8006554663832743,0.706111111111111
 Agriculture Clerk,"Agriculture, Forestry, and Fishing",Support activities to agriculture and post-harvest crop activities,Higher Education,No,Yes,0.9698125993622836,0.48055555555555557
 Agriculture Program Assistant,"Agriculture, Forestry, and Fishing",Support activities to agriculture and post-harvest crop activities,Higher Education,No,Yes,1.0600457450196432,0.5005555555555555
-Agronomy Technicians,"Agriculture, Forestry, and Fishing","Growing of non-perennial crops, Growing of perennial crops, Plant propagation",Higher Education,Yes,No,1.1982784617699302,0.6162967995169083
+Agronomy Technicians,"Agriculture, Forestry, and Fishing","Growing of non-perennial crops, Growing of perennial crops, Plant propagation",Higher Education,Yes,No,1.1962758695210862,0.6164937943262411
 AI Engineer,Information and Communication,"Computer programming, consultancy and related activities",Higher Education,No,No,1.2355878663736692,0.5585861823361823
 AI Prompter,Information and Communication,Other information service activities,Not Higher Education,No,No,1.2355878663736692,0.5574537037037037
 Air Traffic Radio Communications Officer,Transportation and Storage,"Passenger air transport, Freight air transport",Higher Education,No,No,1.1328593104970563,0.5769444444444445
 Aircraft Cleaning Specialist,Transportation and Storage,Support activities for transportation,Not Higher Education,No,No,-0.2057925090763235,0.7225
 Airline Ground Staff,Transportation and Storage,"Passenger air transport, Freight air transport",Higher Education,No,No,-0.3872555286506614,0.5061111111111111
-Airport Equipment Operator,Transportation and Storage,Support activities for transportation,Not Higher Education,No,No,0.733024170282144,0.5563811007268952
+Airport Equipment Operator,Transportation and Storage,Support activities for transportation,Not Higher Education,No,No,0.733024170282144,0.5569264403292181
 Alimak Operators,Construction,Other specialized construction activities,Not Higher Education,No,No,-1.298820999584999,0.6272222222222222
 Ambulance Care Assistant,Human Health and Social Work Activities,Other human health activities,Not Higher Education,No,No,0.2380110444547259,0.6536211755233494
 Ambulance Driver,Human Health and Social Work Activities,Hospital activities,Not Higher Education,No,No,-0.8395236274276211,0.6863888888888888
@@ -49,17 +49,17 @@ Apparel Pattern Designer,Manufacturing,"Manufacture of wearing apparel, except f
 Apparel Quality Technician,Manufacturing,"Manufacture of wearing apparel, except fur apparel",Higher Education,No,Yes,0.3835605034568007,0.5769444444444444
 Application Developer,Information and Communication,"Computer programming, consultancy and related activities",Not Higher Education,No,No,1.2355878663736692,0.5585861823361823
 Aquaculture Business Assistant,"Agriculture, Forestry, and Fishing",Support activities to agriculture and post-harvest crop activities,Higher Education,Yes,No,-0.1419355041150885,0.7291666666666666
-Aquaculture Teacher,Education,Other education services,Higher Education,Yes,No,1.1982784617699302,0.6162967995169083
-Aquaculture Technician,"Agriculture, Forestry, and Fishing",Aquaculture,Higher Education,No,Yes,1.1982784617699302,0.6162967995169083
-Aquaculture Worker,"Agriculture, Forestry, and Fishing",Aquaculture,Not Higher Education,No,No,1.1982784617699302,0.6162967995169083
-Aquatic Ecology Technician,"Professional, Scientific and Technical Activities",Research and experimental development on natural sciences and engineering,Higher Education,No,Yes,1.1982784617699302,0.6162967995169083
+Aquaculture Teacher,Education,Other education services,Higher Education,Yes,No,1.1962758695210862,0.6164937943262411
+Aquaculture Technician,"Agriculture, Forestry, and Fishing",Aquaculture,Higher Education,No,Yes,1.1962758695210862,0.6164937943262411
+Aquaculture Worker,"Agriculture, Forestry, and Fishing",Aquaculture,Not Higher Education,No,No,1.1962758695210862,0.6164937943262411
+Aquatic Ecology Technician,"Professional, Scientific and Technical Activities",Research and experimental development on natural sciences and engineering,Higher Education,No,Yes,1.1962758695210862,0.6164937943262411
 Architectural Drafter,"Professional, Scientific and Technical Activities",Architectural and engineering activities and related technical consultancy,Higher Education,Yes,No,-0.5800703514608596,0.4575
 Archivist,"Arts, Entertainment and Recreation","Libraries, archives, museums and other cultural activities",Higher Education,Yes,No,0.7188278381031682,0.6888888888888888
 Art Gallery Associate,"Arts, Entertainment and Recreation","Creative, arts and entertainment activities",Higher Education,No,Yes,-0.8672596469857901,0.4680555555555555
 Art Gallery Technician,"Arts, Entertainment and Recreation","Creative, arts and entertainment activities",Higher Education,No,Yes,0.4050940821041838,0.6502777777777778
 Articulated Truck Driver,Transportation and Storage,Other land transport,Not Higher Education,No,No,-1.100644052209415,0.6174999999999999
 Artificial Insemination Technician,"Agriculture, Forestry, and Fishing",Animal production,Not Higher Education,No,No,-0.8265822627679962,0.5972222222222222
-Artisanal Weaver,Manufacturing,"Spinning, weaving and finishing of textiles",Not Higher Education,No,No,-0.883448634209523,0.5301327532351628
+Artisanal Weaver,Manufacturing,"Spinning, weaving and finishing of textiles",Not Higher Education,No,No,-0.8341351787751918,0.5330229377104376
 ASEAN Affairs Specialist,"Professional, Scientific and Technical Activities",Research and experimental development on social sciences and humanities,Higher Education,No,No,1.369842507381068,0.6147222222222223
 Associate Data Engineer,Information and Communication,"Data processing, hosting and related activities; web portals",Higher Education,No,No,1.3407881770776937,0.5430555555555555
 Astronomical Data Technician,"Professional, Scientific and Technical Activities",Research and experimental development on natural sciences and engineering,Higher Education,No,Yes,1.3394233838362617,0.616388888888889
@@ -91,8 +91,8 @@ Barangay Nutrition Action Officer,Human Health and Social Work Activities,Other 
 Barber,Other Service Activities,"Personal services for wellness, except sports activities",Not Higher Education,No,No,-0.6928416342196729,0.6258333333333334
 Barista,Accommodation and Food Service Activities,Beverage serving activities,Not Higher Education,No,No,-0.6267809371496645,0.4766666666666666
 Bartender,Accommodation and Food Service Activities,Beverage serving activities,Not Higher Education,No,No,-0.6267809371496645,0.4766666666666666
-Basic Jewelry Fabricator,Manufacturing,"Manufacture of jewelry, bijouterie and related articles",Not Higher Education,No,No,-0.883448634209523,0.5301327532351628
-Basket Weaver,Manufacturing,"Manufacture of products of wood, cork, straw and plaiting materials",Not Higher Education,No,No,-0.883448634209523,0.5301327532351628
+Basic Jewelry Fabricator,Manufacturing,"Manufacture of jewelry, bijouterie and related articles",Not Higher Education,No,No,-0.8341351787751918,0.5330229377104376
+Basket Weaver,Manufacturing,"Manufacture of products of wood, cork, straw and plaiting materials",Not Higher Education,No,No,-0.8341351787751918,0.5330229377104376
 Beach Lifeguards,Accommodation and Food Service Activities,Short term accommodation activities,Not Higher Education,No,No,0.8618669629198157,0.543611111111111
 Beach Recreation Associate,Accommodation and Food Service Activities,Short term accommodation activities,Higher Education,No,Yes,0.4571220527837438,0.6594444444444444
 Beadwork Accessories Makers,Manufacturing,"Manufacture of jewelry, bijouterie and related articles",Not Higher Education,No,No,-0.8672596469857901,0.4680555555555555
@@ -106,7 +106,7 @@ Biology Instructor,Education,Higher education,Higher Education,No,No,0.800655466
 Biology Lab Technician,"Professional, Scientific and Technical Activities",Research and experimental development on natural sciences and engineering,Higher Education,No,Yes,-0.3935851657204582,0.5456944444444444
 Biomedical Technician,Human Health and Social Work Activities,Other human health activities,Not Higher Education,No,No,-0.3935851657204582,0.5456944444444444
 Biotech Lab Technician,"Professional, Scientific and Technical Activities",Research and experimental development on natural sciences and engineering,Higher Education,No,Yes,-0.3935851657204582,0.5456944444444444
-Blacksmith,Manufacturing,Manufacture of other fabricated metal products; metal working service activities,Not Higher Education,No,No,-0.883448634209523,0.5301327532351628
+Blacksmith,Manufacturing,Manufacture of other fabricated metal products; metal working service activities,Not Higher Education,No,No,-0.8341351787751918,0.5330229377104376
 Boat Fitter,Manufacturing,Building of ships and boats,Not Higher Education,No,No,-1.049182638556866,0.7641666666666665
 Boat Operator (Tourism),Transportation and Storage,Sea and coastal water transport,Not Higher Education,No,No,-0.8102712472248825,0.7050000000000001
 Body Repair Personnel,Manufacturing,Manufacture of bodies (coachwork) for motor vehicles; manufacture of trailers and semi-trailers,Not Higher Education,No,No,-1.5566147016651897,0.6050000000000001
@@ -116,9 +116,9 @@ Boom Truck Drivers,Construction,Construction of roads and railways,Not Higher Ed
 Bouncer,Accommodation and Food Service Activities,Other accommodation,Not Higher Education,No,No,-0.5182191975946915,0.5377777777777778
 Branch Associate,Administrative and Support Service Activities,Office administrative and support activities,Higher Education,No,Yes,1.0600457450196432,0.5005555555555555
 Brand Communications Officer,"Professional, Scientific and Technical Activities",Advertising,Higher Education,No,No,1.0792977885038806,0.49222222222222217
-Brand Designer,"Professional, Scientific and Technical Activities",Advertising,Higher Education,No,No,0.733024170282144,0.5563811007268952
+Brand Designer,"Professional, Scientific and Technical Activities",Advertising,Higher Education,No,No,0.733024170282144,0.5569264403292181
 Broadcast Operations Assistant,Information and Communication,Programming and Broadcasting Activities,Higher Education,No,Yes,-0.5276871682377668,0.6405864197530864
-Broadcast Production Assistant,Information and Communication,Programming and Broadcasting Activities,Higher Education,No,Yes,0.733024170282144,0.5563811007268952
+Broadcast Production Assistant,Information and Communication,Programming and Broadcasting Activities,Higher Education,No,Yes,0.733024170282144,0.5569264403292181
 Broadcast Scriptwriter,Information and Communication,Programming and Broadcasting Activities,Higher Education,No,No,0.7743766257616718,0.5294444444444445
 Building Design Assistant,"Professional, Scientific and Technical Activities",Architectural and engineering activities and related technical consultancy,Higher Education,Yes,No,1.0614157123926595,0.6747222222222223
 Building-Wiring Electrician,Construction,"Electrical, plumbing and other construction installation activities",Not Higher Education,No,No,-0.9863345860553324,0.7455555555555556
@@ -146,7 +146,7 @@ Casework Support Assistant,Human Health and Social Work Activities,"Other social
 Cashier,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Retail sale in non-specialized stores,Not Higher Education,No,No,-0.0637669727961953,0.5011111111111111
 Cataloguer,"Arts, Entertainment and Recreation","Libraries, archives, museums and other cultural activities",Higher Education,No,No,0.8006554663832743,0.695328282828283
 Cataloguing Officer,Information and Communication,Other information service activities,Higher Education,Yes,No,1.4742814213283415,0.5972222222222223
-CATV Systems Technician,Information and Communication,Wired telecommunications activities,Not Higher Education,No,No,0.733024170282144,0.5563811007268952
+CATV Systems Technician,Information and Communication,Wired telecommunications activities,Not Higher Education,No,No,0.733024170282144,0.5569264403292181
 Certified Public Accountant,Financial and Insurance Activities,"Accounting, bookkeeping and auditing activities; tax consultancy",Higher Education,Yes,No,1.3620743346972182,0.45416666666666666
 Certified Public Accountant (Healthcare),Human Health and Social Work Activities,Hospital activities,Higher Education,Yes,No,1.3620743346972182,0.45416666666666666
 Chaplaincy Aide,Human Health and Social Work Activities,"Other social work activities without accommodation, n.e.c.",Higher Education,No,Yes,1.2114588767178207,0.6294444444444444
@@ -174,22 +174,24 @@ Civil Service Officer,Public Administration and Defense; Compulsory Social Secur
 Classical Performer,"Arts, Entertainment and Recreation","Creative, arts and entertainment activities",Higher Education,No,No,-0.0481137107809598,0.5141666666666667
 Clean-Up Artist,"Arts, Entertainment and Recreation","Creative, arts and entertainment activities",Not Higher Education,No,No,-0.1802445932619149,0.6108333333333333
 Clergy Program Assistant,Human Health and Social Work Activities,"Other social work activities without accommodation, n.e.c.",Higher Education,No,Yes,0.7806366196871929,0.6655492424242423
-Clerk (Healthcare),Human Health and Social Work Activities,Hospital activities,Higher Education,No,Yes,1.0117367283079466,0.5210816125860372
+Clerk (Healthcare),Human Health and Social Work Activities,Hospital activities,Higher Education,No,Yes,1.0117367283079466,0.5203728070175438
 Climate and Weather Monitoring Technician,"Professional, Scientific and Technical Activities","Other professional, scientific and technical activities, n.e.c.",Higher Education,No,Yes,0.0882226573666494,0.5626388888888889
 Climate Science Research Assistant,"Professional, Scientific and Technical Activities",Research and experimental development on natural sciences and engineering,Higher Education,No,Yes,1.121407837793284,0.6320138888888889
 Clinical Assistant,Human Health and Social Work Activities,Medical and dental practice activities,Higher Education,No,Yes,0.131317826544596,0.5872222222222223
-Clinical Chemistry Analyst,Manufacturing,Manufacture of basic chemicals,Higher Education,Yes,No,1.1982784617699302,0.6162967995169083
+Clinical Chemistry Analyst,Manufacturing,Manufacture of basic chemicals,Higher Education,Yes,No,1.1962758695210862,0.6164937943262411
 Clinical Research Assistant,Human Health and Social Work Activities,Other human health activities,Higher Education,No,Yes,0.131317826544596,0.5872222222222223
 Clothing Line Technician,Manufacturing,"Manufacture of wearing apparel, except fur apparel",Higher Education,No,Yes,0.3835605034568007,0.5769444444444444
-CNC EDM Wire Cut Operator,Manufacturing,Manufacture of general purpose machinery,Not Higher Education,No,No,-0.883448634209523,0.5301327532351628
+CNC EDM Wire Cut Operator,Manufacturing,Manufacture of general purpose machinery,Not Higher Education,No,No,-0.8341351787751918,0.5330229377104376
 CNC Lathe Machine Operator,Manufacturing,Manufacture of general purpose machinery,Not Higher Education,No,No,-1.1384208402675908,0.5302777777777778
-CNC Machinist,Manufacturing,Manufacture of general purpose machinery,Not Higher Education,No,No,-0.883448634209523,0.5301327532351628
-CNC Milling Machine Operator,Manufacturing,Manufacture of general purpose machinery,Not Higher Education,No,No,-0.883448634209523,0.5301327532351628
+CNC Machinist,Manufacturing,Manufacture of general purpose machinery,Not Higher Education,No,No,-0.8341351787751918,0.5330229377104376
+CNC Milling Machine Operator,Manufacturing,Manufacture of general purpose machinery,Not Higher Education,No,No,-0.8341351787751918,0.5330229377104376
 Coastal Resource Assistant,"Agriculture, Forestry, and Fishing",Aquaculture,Higher Education,No,Yes,1.121407837793284,0.6320138888888889
 Coconut Farmer,"Agriculture, Forestry, and Fishing",Support activities to agriculture and post-harvest crop activities,Not Higher Education,No,No,-1.153152853548008,0.5406076388888889
 Cocoon Farmer,"Agriculture, Forestry, and Fishing",Animal production,Not Higher Education,No,No,-1.0528327163871605,0.5588888888888889
 Coffee Farmer Nursery Operator,"Agriculture, Forestry, and Fishing",Growing of perennial crops,Not Higher Education,No,No,-1.153152853548008,0.49638888888888894
+Cold Storage Technician,Manufacturing,Installation of industrial machinery and equipment,Higher Education,No,No,-0.9694564085988252,0.5850000000000001
 Commercial Air-Conditioning Unit Technician,"Electricity, Gas, Steam and Air Conditioning Supply",Airconditioning and Refrigeration,Not Higher Education,No,No,-0.9106473891239084,0.686111111111111
+Commercial Diver,Transportation and Storage,"Sea and coastal water transport, Inland water transport",Not Higher Education,No,No,-0.7138985758488017,0.7611111111111111
 Commercial Refrigeration Equipment Technician,"Electricity, Gas, Steam and Air Conditioning Supply",Airconditioning and Refrigeration,Not Higher Education,No,No,-0.9106473891239084,0.686111111111111
 Commis Chef,Accommodation and Food Service Activities,Restaurants and mobile food service activities,Higher Education,No,No,-0.1489164181781776,0.57
 Commis Helper,Accommodation and Food Service Activities,Restaurants and mobile food service activities,Not Higher Education,No,No,-0.6267809371496645,0.5396732026143791
@@ -219,7 +221,7 @@ Computer Assembler,Manufacturing,Manufacture of computers and peripheral equipme
 Computer Maintenance Technologist (Healthcare),Human Health and Social Work Activities,Hospital activities,Higher Education,No,Yes,1.2355878663736692,0.5585861823361823
 Computer Security Support Staff,Information and Communication,Other information service activities,Not Higher Education,No,No,1.2355878663736692,0.5574537037037037
 Computer Technician,Information and Communication,"Computer Programming, Consultancy and Related Activities",Higher Education,No,Yes,-1.0922437980466209,0.6463888888888889
-Computer Transcriptionist,Information and Communication,Other information service activities,Higher Education,No,No,1.0117367283079466,0.5210816125860372
+Computer Transcriptionist,Information and Communication,Other information service activities,Higher Education,No,No,1.0117367283079466,0.5203728070175438
 Concept Art Assistant,"Arts, Entertainment and Recreation","Creative, arts and entertainment activities",Higher Education,No,Yes,0.733024170282144,0.563888888888889
 Concierge Assistant,Accommodation and Food Service Activities,Short term accommodation activities,Higher Education,No,Yes,-1.440933617762003,0.5955555555555555
 Concrete Pump Operator,Construction,Other specialized construction activities,Not Higher Education,No,No,-1.15238606969144,0.6227777777777778
@@ -243,7 +245,7 @@ Control Systems Technician,"Electricity, Gas, Steam and Air Conditioning Supply"
 Cook,Accommodation and Food Service Activities,Event catering and other food service activities,Not Higher Education,No,No,-0.6267809371496645,0.5396732026143791
 Cook (Healthcare Facility),Human Health and Social Work Activities,Hospital activities,Not Higher Education,No,No,-0.6267809371496645,0.5396732026143791
 Cooling Systems Technician,"Electricity, Gas, Steam and Air Conditioning Supply","Electric power generation, transmission and distribution",Higher Education,No,Yes,0.2307035718843949,0.6161111111111112
-Co-op Administrative Support,Administrative and Support Service Activities,"Business support service activities, n.e.c.",Higher Education,No,Yes,1.0117367283079466,0.5210816125860372
+Co-op Administrative Support,Administrative and Support Service Activities,"Business support service activities, n.e.c.",Higher Education,No,Yes,1.0117367283079466,0.5203728070175438
 Cooperative Assistant,Administrative and Support Service Activities,"Business support service activities, n.e.c.",Higher Education,No,Yes,1.0600457450196432,0.5005555555555555
 Cooperative Development Officer,"Agriculture, Forestry, and Fishing",Support activities to agriculture and post-harvest crop activities,Higher Education,No,No,1.1966462559768865,0.6319444444444445
 Corporate Auditor,Financial and Insurance Activities,Activities of holding companies,Higher Education,Yes,No,1.3620743346972182,0.45416666666666666
@@ -258,7 +260,7 @@ Court Stenographer,Public Administration and Defense; Compulsory Social Security
 Crawler Crane Operator,Construction,Demolition and site preparation,Not Higher Education,No,No,-0.9871245285050874,0.6422222222222221
 Creative Writing Instructor,Information and Communication,"Publishing of books, periodicals and other publishing activities",Higher Education,No,No,0.7743766257616718,0.5294444444444445
 Criminal Investigator (Registered Criminologist),Public Administration and Defense; Compulsory Social Security,Public Order and Safety Activities,Higher Education,Yes,No,0.1137349789024808,0.6456481481481481
-Crop Field Technician,"Agriculture, Forestry, and Fishing",Growing of non-perennial crops,Higher Education,No,Yes,1.1982784617699302,0.6162967995169083
+Crop Field Technician,"Agriculture, Forestry, and Fishing",Growing of non-perennial crops,Higher Education,No,Yes,1.1962758695210862,0.6164937943262411
 Cruise Cabin Attendant,Accommodation and Food Service Activities,Other accommodation,Higher Education,No,Yes,-0.3872555286506614,0.5061111111111111
 Cruise Operations Assistant,Accommodation and Food Service Activities,Other accommodation,Higher Education,No,Yes,-0.7138985758488017,0.7611111111111111
 Culinary Tour Assistant,Accommodation and Food Service Activities,Restaurants and mobile food service activities,Higher Education,No,Yes,-1.826941747515469,0.49500000000000005
@@ -272,7 +274,7 @@ Customer Service Representative,Administrative and Support Service Activities,"B
 Customs Officer,Public Administration and Defense; Compulsory Social Security,Public administration and defense; compulsory social security,Higher Education,Yes,No,-0.7219361463874624,0.6970833333333334
 Cyber Threat Analyst,Information and Communication,"Data processing, hosting and related activities; web portals",Not Higher Education,No,No,1.2355878663736692,0.5574537037037037
 Cybersecurity Help Desk,Information and Communication,Other information service activities,Not Higher Education,No,No,1.2355878663736692,0.5585861823361823
-Dairy Farm Milker,"Agriculture, Forestry, and Fishing",Animal production,Not Higher Education,No,No,1.1982784617699302,0.6162967995169083
+Dairy Farm Milker,"Agriculture, Forestry, and Fishing",Animal production,Not Higher Education,No,No,1.1962758695210862,0.6164937943262411
 Dancer,"Arts, Entertainment and Recreation","Creative, arts and entertainment activities",Not Higher Education,No,No,-1.6025485585216013,0.6763888888888888
 Data Analyst Associate,Information and Communication,"Data processing, hosting and related activities; web portals",Not Higher Education,No,No,1.3407881770776937,0.5430555555555555
 Data Annotation Associate,Information and Communication,"Data processing, hosting and related activities; web portals",Not Higher Education,No,No,1.4774993998129229,0.6063888888888888
@@ -286,6 +288,7 @@ Delivery Driver,Transportation and Storage,Support activities for transportation
 Demi Chef,Accommodation and Food Service Activities,Restaurants and mobile food service activities,Higher Education,No,No,-0.1489164181781776,0.57
 Dental Hygienist,Human Health and Social Work Activities,Medical and dental practice activities,Not Higher Education,No,No,-0.4413828025834359,0.6322222222222221
 Dental Laboratory Assistant,Human Health and Social Work Activities,Medical and dental practice activities,Not Higher Education,No,No,-0.4413828025834359,0.6322222222222221
+Dental Laboratory Technician,Human Health and Social Work Activities,Medical and dental practice activities,Not Higher Education,No,No,-0.5063030629867125,0.6347222222222222
 Dentist,Human Health and Social Work Activities,Medical and dental practice activities,Higher Education,Yes,No,0.2380110444547259,0.6536211755233494
 Dermopigmentation/Tattoo Artist,"Arts, Entertainment and Recreation","Creative, arts and entertainment activities",Not Higher Education,No,No,-0.5276871682377668,0.6405864197530864
 Design Engineer,"Professional, Scientific and Technical Activities",Architectural and engineering activities and related technical consultancy,Higher Education,Yes,No,1.3022721729014886,0.6582638888888889
@@ -294,8 +297,9 @@ Development Planning Associate,"Professional, Scientific and Technical Activitie
 Development Researcher,Public Administration and Defense; Compulsory Social Security,Public Administration,Higher Education,No,No,0.8006554663832743,0.695328282828283
 Dialysis Nurse,Human Health and Social Work Activities,Medical and dental practice activities,Higher Education,Yes,No,0.2700903207777707,0.7450000000000001
 Diesel Power Plant Operator,"Electricity, Gas, Steam and Air Conditioning Supply","Electric power generation, transmission and distribution",Not Higher Education,No,No,-0.6745700212605167,0.6387037037037038
+Digital Background Painting,Information and Communication,"Motion picture, video and television programme activities",Higher Education,No,No,0.6882188383865873,0.6152777777777777
 Digital Content Strategist,"Professional, Scientific and Technical Activities",Advertising,Higher Education,No,No,1.2355878663736692,0.5585861823361823
-Digital Fabrication Machine Operator,Manufacturing,Manufacture of general purpose machinery,Not Higher Education,No,No,-0.883448634209523,0.5301327532351628
+Digital Fabrication Machine Operator,Manufacturing,Manufacture of general purpose machinery,Not Higher Education,No,No,-0.8341351787751918,0.5330229377104376
 Digital Marketing Specialist,"Professional, Scientific and Technical Activities",Advertising,Not Higher Education,No,No,0.7743766257616718,0.5294444444444445
 Digital Sales Support Staff,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Retail Sale via Mail Order Houses or via Internet,Higher Education,No,No,1.2014782802095345,0.6194444444444445
 Digital Transformation Associate,"Professional, Scientific and Technical Activities","Other professional, scientific and technical activities, n.e.c.",Higher Education,No,Yes,1.2355878663736692,0.5574537037037037
@@ -371,11 +375,12 @@ ESL Trainer,Education,Other Education,Higher Education,No,No,1.1966462559768865,
 Estimator,Transportation and Storage,Warehousing and storage,Higher Education,Yes,No,0.5129253723597855,0.6382638888888889
 Ethics Research Assistant,"Professional, Scientific and Technical Activities",Research and experimental development on social sciences and humanities,Higher Education,No,Yes,0.8006554663832743,0.695328282828283
 EU Policy Analyst,"Professional, Scientific and Technical Activities",Research and experimental development on social sciences and humanities,Higher Education,No,No,1.4540568100648037,0.605625
+EV Battery Automotive Mechanic,Manufacturing,Manufacture of batteries and accumulators,Not Higher Education,No,No,-0.8400396819555548,0.6527777777777778
 Events Assistant,Administrative and Support Service Activities,"Business support service activities, n.e.c.",Higher Education,No,Yes,0.3580352965169154,0.6833333333333332
 Executive Assistant (Airline),Administrative and Support Service Activities,Office administrative and support activities,Higher Education,No,Yes,1.0600457450196432,0.5005555555555555
 Executive Secretary,Administrative and Support Service Activities,Office administrative and support activities,Higher Education,No,Yes,1.0600457450196432,0.5005555555555555
-Exercise Physiologist,Human Health and Social Work Activities,Medical and dental practice activities,Higher Education,No,No,1.1982784617699302,0.6162967995169083
-Exhibit Design Assistant,"Arts, Entertainment and Recreation","Creative, arts and entertainment activities",Higher Education,No,Yes,0.733024170282144,0.5563811007268952
+Exercise Physiologist,Human Health and Social Work Activities,Medical and dental practice activities,Higher Education,No,No,1.1962758695210862,0.6164937943262411
+Exhibit Design Assistant,"Arts, Entertainment and Recreation","Creative, arts and entertainment activities",Higher Education,No,Yes,0.733024170282144,0.5569264403292181
 Exhibits Specialist,"Arts, Entertainment and Recreation","Libraries, archives, museums and other cultural activities",Higher Education,No,No,0.7188278381031682,0.6888888888888888
 Export Brokerage Clerk,Transportation and Storage,"Freight air transport, Sea and coastal water transport",Higher Education,No,Yes,-0.7219361463874624,0.6970833333333334
 External Auditor,Financial and Insurance Activities,"Accounting, bookkeeping and auditing activities; tax consultancy",Higher Education,Yes,No,1.3620743346972182,0.45416666666666666
@@ -390,15 +395,15 @@ Family Life Educator,Human Health and Social Work Activities,"Other social work 
 Family Welfare Worker,Human Health and Social Work Activities,"Other social work activities without accommodation, n.e.c.",Higher Education,No,No,0.7806366196871929,0.6691666666666666
 Farm Equipment Fabricator,Manufacturing,"Manufacture of structural metal products, tanks, reservoirs and steam generators",Not Higher Education,No,No,-1.049182638556866,0.7641666666666665
 Farm Operations Assistant,"Agriculture, Forestry, and Fishing",Support activities to agriculture and post-harvest crop activities,Higher Education,Yes,No,-0.6777790981433184,0.7088888888888888
-Farm Systems Technician,"Agriculture, Forestry, and Fishing",Growing of non-perennial crops,Higher Education,No,Yes,1.1982784617699302,0.6162967995169083
-Farm Technician,"Agriculture, Forestry, and Fishing",Animal production,Higher Education,No,Yes,1.1982784617699302,0.6162967995169083
+Farm Systems Technician,"Agriculture, Forestry, and Fishing",Growing of non-perennial crops,Higher Education,No,Yes,1.1962758695210862,0.6164937943262411
+Farm Technician,"Agriculture, Forestry, and Fishing",Animal production,Higher Education,No,Yes,1.1962758695210862,0.6164937943262411
 Farm Tour Assistant,Accommodation and Food Service Activities,Other accommodation,Higher Education,No,Yes,0.4571220527837438,0.6594444444444444
-Fashion Designer,Manufacturing,"Manufacture of wearing apparel, except fur apparel",Not Higher Education,No,No,0.733024170282144,0.5563811007268952
+Fashion Designer,Manufacturing,"Manufacture of wearing apparel, except fur apparel",Not Higher Education,No,No,0.733024170282144,0.5569264403292181
 Fashion Exhibition Assistant,"Arts, Entertainment and Recreation","Creative, arts and entertainment activities",Higher Education,No,Yes,0.072872365795889,0.5533333333333333
 Fashion Merchandising Assistant,Wholesale and Retail Trade; Repair of Motor Vehicles and Motorcycles,Retail Sale in Specialized Stores,Higher Education,No,Yes,0.7743766257616718,0.5294444444444445
 Fiber Optic Cable Technician,Information and Communication,Wired telecommunications activities,Not Higher Education,No,No,-1.0922437980466209,0.6463888888888889
 Fiber Optic Technician,Information and Communication,Wired telecommunications activities,Higher Education,No,Yes,0.1939856726874307,0.6022222222222223
-Field Agronomist Assistant,"Agriculture, Forestry, and Fishing",Plant propagation,Higher Education,Yes,No,1.1982784617699302,0.6162967995169083
+Field Agronomist Assistant,"Agriculture, Forestry, and Fishing",Plant propagation,Higher Education,Yes,No,1.1962758695210862,0.6164937943262411
 Field Development Associate,Human Health and Social Work Activities,"Other social work activities without accommodation, n.e.c.",Higher Education,No,Yes,1.1966462559768865,0.6319444444444445
 Field Engineers,Construction,Construction of buildings,Higher Education,Yes,No,1.303068832130924,0.6426851851851851
 Field Science Assistant,"Professional, Scientific and Technical Activities",Research and experimental development on natural sciences and engineering,Higher Education,No,Yes,0.131317826544596,0.5872222222222223
@@ -412,7 +417,7 @@ Finance Associate,Financial and Insurance Activities,"Other financial service ac
 Financial Auditor,Financial and Insurance Activities,"Accounting, bookkeeping and auditing activities; tax consultancy",Higher Education,Yes,No,1.3620743346972182,0.45416666666666666
 Finishing Mason,Construction,Construction of buildings,Not Higher Education,No,No,-0.9916104341060964,0.6286111111111111
 First-Aider,Human Health and Social Work Activities,"Other social work activities without accommodation, n.e.c.",Not Higher Education,No,No,-0.5134808423859277,0.5629166666666666
-Fish Finder Operator,Manufacturing,"Manufacture of measuring, testing, navigating and control equipment; watches and clocks",Not Higher Education,No,No,-1.0922437980466209,0.6659810874704492
+Fish Finder Operator,Manufacturing,"Manufacture of measuring, testing, navigating and control equipment; watches and clocks",Not Higher Education,No,No,-1.0922437980466209,0.6663435374149659
 Fish Packaging Worker,Manufacturing,"Processing and preserving of fish, crustaceans and mollusks",Not Higher Education,No,No,-0.7688751902862945,0.4733333333333334
 Fish Processing Technician,"Agriculture, Forestry, and Fishing",Aquaculture,Higher Education,Yes,No,-0.7688751902862945,0.4733333333333334
 Fish Quality Inspector,"Agriculture, Forestry, and Fishing",Fishing,Higher Education,Yes,No,0.1555959054689412,0.5997222222222222
@@ -428,6 +433,7 @@ Florist,Other Service Activities,"Personal services for wellness, except sports 
 Food and Beverage Attendant,Accommodation and Food Service Activities,Restaurants and mobile food service activities,Higher Education,No,Yes,-0.7755887983642628,0.5930555555555556
 Food Processing Worker,Manufacturing,Manufacture of other food products,Not Higher Education,No,No,-0.7688751902862945,0.4733333333333334
 Food Product Developer,Accommodation and Food Service Activities,Restaurants and mobile food service activities,Higher Education,No,No,-0.1489164181781776,0.57
+Food Safety Auditor,Manufacturing,Manufacture of other food products,Higher Education,Yes,No,0.1292963535410174,0.6092460317460319
 Food Safety Officer,Accommodation and Food Service Activities,Event catering and other food service activities,Higher Education,No,No,0.195081275698469,0.6889814814814814
 Food Service Worker,Accommodation and Food Service Activities,Restaurants and mobile food service activities,Higher Education,No,No,-1.826941747515469,0.49500000000000005
 Food Technologist,"Agriculture, Forestry, and Fishing",Support activities to agriculture and post-harvest crop activities,Higher Education,Yes,No,0.8006554663832743,0.706111111111111
@@ -438,7 +444,7 @@ Forensic Accountant,Financial and Insurance Activities,"Accounting, bookkeeping 
 Forensic Lab Assistant,"Professional, Scientific and Technical Activities","Other professional, scientific and technical activities, n.e.c.",Higher Education,No,Yes,0.3835605034568007,0.5769444444444444
 Forensic Laboratory Analyst,"Professional, Scientific and Technical Activities","Other professional, scientific and technical activities, n.e.c.",Higher Education,No,No,0.3835605034568007,0.5769444444444444
 Forestry Extension Assistant,"Agriculture, Forestry, and Fishing",Silviculture and other forestry activities,Higher Education,Yes,No,0.8006554663832743,0.706111111111111
-Forging Machine Operator,Manufacturing,Manufacture of other fabricated metal products; metal working service activities,Not Higher Education,No,No,-0.883448634209523,0.5301327532351628
+Forging Machine Operator,Manufacturing,Manufacture of other fabricated metal products; metal working service activities,Not Higher Education,No,No,-0.8341351787751918,0.5330229377104376
 Forklift Drivers,Transportation and Storage,Other land transport,Not Higher Education,No,No,-1.298820999584999,0.6272222222222222
 Forklift Operator,Construction,Demolition and site preparation,Not Higher Education,No,No,-1.298820999584999,0.6272222222222222
 Formworks Crew,Construction,Construction of buildings,Not Higher Education,No,No,-1.15238606969144,0.6467751736111111
@@ -450,10 +456,10 @@ Front End Game Developer,Information and Communication,"Computer programming, co
 Front Office Agent,Accommodation and Food Service Activities,Other accommodation,Not Higher Education,No,No,1.0117367283079466,0.47138888888888886
 Front-End Developer,Information and Communication,"Computer programming, consultancy and related activities",Higher Education,No,No,1.2355878663736692,0.5585861823361823
 Front-End Web Developer,Information and Communication,"Computer programming, consultancy and related activities",Not Higher Education,No,No,1.2355878663736692,0.5585861823361823
-Furniture Maker Finisher,Manufacturing,Manufacture of furniture,Not Higher Education,No,No,-0.883448634209523,0.5301327532351628
+Furniture Maker Finisher,Manufacturing,Manufacture of furniture,Not Higher Education,No,No,-0.8341351787751918,0.5330229377104376
 Game Designer,Information and Communication,Other information service activities,Higher Education,No,No,0.733024170282144,0.563888888888889
 Game Programmer,Information and Communication,"Computer programming, consultancy and related activities",Not Higher Education,No,No,0.733024170282144,0.563888888888889
-Garment Technician,Manufacturing,"Manufacture of wearing apparel, except fur apparel",Higher Education,No,Yes,0.733024170282144,0.5563811007268952
+Garment Technician,Manufacturing,"Manufacture of wearing apparel, except fur apparel",Higher Education,No,Yes,0.733024170282144,0.5569264403292181
 Gas Welder (Oxy-Acetylene),Construction,Other specialized construction activities,Not Higher Education,No,No,-0.9644465077543026,0.5352777777777777
 Genealogist,"Arts, Entertainment and Recreation","Libraries, archives, museums and other cultural activities",Higher Education,No,No,1.3409751077112817,0.5886111111111111
 General Subject Basic Education Teacher,Education,Primary/elementary education,Higher Education,Yes,No,1.1884950168906403,0.7011111111111111
@@ -471,9 +477,10 @@ Green Coffee Beans Processor,"Agriculture, Forestry, and Fishing",Support activi
 Ground Operations Crew Member,Transportation and Storage,"Passenger air transport, Freight air transport",Higher Education,No,No,-0.3872555286506614,0.5061111111111111
 GTAW/TIG Welder,Construction,Other specialized construction activities,Not Higher Education,No,No,-0.9644465077543026,0.5352777777777777
 Guest Relations Associate,Accommodation and Food Service Activities,Short term accommodation activities,Higher Education,No,Yes,0.589195436762273,0.5647222222222222
+HACCP Coordinator,Manufacturing,Manufacture of other food products,Higher Education,No,No,0.1292963535410174,0.6092460317460319
 Hairdresser,Other Service Activities,"Personal services for wellness, except sports activities",Not Higher Education,No,No,-0.6928416342196729,0.6258333333333334
 Halal Compliance Specialist,Manufacturing,Manufacture of other food products,Higher Education,No,No,1.4085293419369729,0.5794444444444444
-Halal Seaweed Processing Worker,Manufacturing,"Processing and preserving of fish, crustaceans and mollusks",Not Higher Education,No,No,-0.883448634209523,0.5301327532351628
+Halal Seaweed Processing Worker,Manufacturing,"Processing and preserving of fish, crustaceans and mollusks",Not Higher Education,No,No,-0.8341351787751918,0.5330229377104376
 Halal Slaughterer,Manufacturing,Processing and preserving of meat,Not Higher Education,No,No,-0.7688751902862945,0.4733333333333334
 Handloom Weaver,Manufacturing,"Spinning, weaving and finishing of textiles",Not Higher Education,No,No,-0.8841484845166345,0.48583333333333334
 Hatchery Farm Worker,"Agriculture, Forestry, and Fishing",Aquaculture,Not Higher Education,No,No,-1.1166346396376288,0.5847222222222223
@@ -496,7 +503,7 @@ History Lecturer,Education,Higher education,Higher Education,No,No,1.34097510771
 Home Economics Extension Worker,Human Health and Social Work Activities,"Other social work activities without accommodation, n.e.c.",Higher Education,No,No,0.7806366196871929,0.6691666666666666
 Home-Based Birth Assistant (Registered Midwife),Human Health and Social Work Activities,Medical and dental practice activities,Higher Education,Yes,No,0.1929736859629439,0.7347222222222222
 Horse Riding Instructor,Other Service Activities,"Personal services for wellness, except sports activities",Not Higher Education,No,No,-2.032514091161482,0.6602777777777779
-Horticulture Assistant,"Agriculture, Forestry, and Fishing",Plant propagation,Higher Education,No,Yes,1.1982784617699302,0.6162967995169083
+Horticulture Assistant,"Agriculture, Forestry, and Fishing",Plant propagation,Higher Education,No,Yes,1.1962758695210862,0.6164937943262411
 Hospital Administration Associate,Human Health and Social Work Activities,Hospital activities,Higher Education,No,Yes,1.0337143779854754,0.5113888888888888
 Hospital Caregiver,Human Health and Social Work Activities,Hospital activities,Not Higher Education,No,No,-0.4413828025834359,0.5907306763285024
 Hospital Nursing Aide,Human Health and Social Work Activities,Hospital activities,Not Higher Education,No,No,-0.4413828025834359,0.5907306763285024
@@ -537,7 +544,7 @@ Instrumentation And Automation Technician,Manufacturing,"Manufacture of measurin
 Instrumentation Engineer (Licensed),"Electricity, Gas, Steam and Air Conditioning Supply","Electric power generation, transmission and distribution",Higher Education,Yes,No,0.6853776260103156,0.5906944444444444
 Insurance Processors,Financial and Insurance Activities,Activities auxiliary to insurance and pension funding,Not Higher Education,No,No,1.3203041108213494,0.5938888888888889
 Interactive Content Developer,Information and Communication,"Computer programming, consultancy and related activities",Higher Education,No,No,1.2355878663736692,0.5585861823361823
-Interactive Media Assistant,Information and Communication,"Computer programming, consultancy and related activities",Higher Education,No,Yes,0.733024170282144,0.5563811007268952
+Interactive Media Assistant,Information and Communication,"Computer programming, consultancy and related activities",Higher Education,No,Yes,0.733024170282144,0.5569264403292181
 Intercultural Program Facilitator,Human Health and Social Work Activities,"Other social work activities without accommodation, n.e.c.",Higher Education,No,No,0.7806366196871929,0.6691666666666666
 Interfaith Program Assistant,Human Health and Social Work Activities,"Other social work activities without accommodation, n.e.c.",Higher Education,No,Yes,1.2355878663736692,0.5585861823361823
 Interior Architect (Tourism),"Professional, Scientific and Technical Activities",Architectural and engineering activities and related technical consultancy,Higher Education,Yes,No,1.0614157123926595,0.6747222222222223
@@ -550,7 +557,7 @@ Inventory Analyst,Transportation and Storage,Support activities for transportati
 Inventory Clerk (Transportation and Storage),Transportation and Storage,Support activities for transportation,Higher Education,No,Yes,-0.1990509675516624,0.5297222222222222
 Inventory Management Assistant,Transportation and Storage,Support activities for transportation,Higher Education,No,Yes,-0.1990509675516624,0.5297222222222222
 Investment Accountant,Financial and Insurance Activities,"Accounting, bookkeeping and auditing activities; tax consultancy",Higher Education,Yes,No,1.3620743346972182,0.45416666666666666
-Irrigation Technician,"Agriculture, Forestry, and Fishing",Aquaculture,Not Higher Education,No,No,1.1982784617699302,0.6162967995169083
+Irrigation Technician,"Agriculture, Forestry, and Fishing",Aquaculture,Not Higher Education,No,No,1.1962758695210862,0.6164937943262411
 IT Business Analyst Assistant,Information and Communication,"Computer programming, consultancy and related activities",Higher Education,No,Yes,1.1239022980263975,0.5956944444444444
 IT Support Specialist,Information and Communication,"Computer Programming, Consultancy and Related Activities",Higher Education,No,No,1.390653349799162,0.6652777777777777
 IT Support Technician (Air Transport),Transportation and Storage,"Passenger air transport, Freight air transport",Higher Education,No,Yes,0.2307035718843949,0.6161111111111112
@@ -562,11 +569,12 @@ Java Programmer,Information and Communication,"Computer programming, consultancy
 Jobs Coordinator (Transportation and Storage),Transportation and Storage,Support activities for transportation,Higher Education,No,Yes,1.3320301230028002,0.5302777777777777
 Judicial Assistant,Public Administration and Defense; Compulsory Social Security,Justice and Judicial Activities,Higher Education,No,Yes,0.7106225288460828,0.5908333333333333
 Junior AI Data Governance Officer,Information and Communication,"Data processing, hosting and related activities; web portals",Not Higher Education,No,No,1.3407881770776937,0.5430555555555555
+Junior Airline Accounting Clerk,Transportation and Storage,"Passenger air transport, Freight air transport",Higher Education,Yes,No,1.2514394559345414,0.44027777777777777
 Junior Applications Analyst,Information and Communication,"Computer Programming, Consultancy and Related Activities",Higher Education,No,No,1.2355878663736692,0.5585861823361823
 Junior Architectural Technologist,"Professional, Scientific and Technical Activities",Architectural and engineering activities and related technical consultancy,Higher Education,Yes,No,1.0614157123926595,0.6747222222222223
 Junior Associate (Consulting),"Professional, Scientific and Technical Activities",Management consultancy activities,Higher Education,No,Yes,1.369842507381068,0.6147222222222223
 Junior Behavioral Health Analyst,Human Health and Social Work Activities,"Other social work activities without accommodation, n.e.c.",Higher Education,No,No,1.1962758695210862,0.6579166666666666
-Junior Botanist,"Professional, Scientific and Technical Activities",Research and experimental development on natural sciences and engineering,Higher Education,No,No,1.1982784617699302,0.6162967995169083
+Junior Botanist,"Professional, Scientific and Technical Activities",Research and experimental development on natural sciences and engineering,Higher Education,No,No,1.1962758695210862,0.6164937943262411
 Junior Budget Analyst,Financial and Insurance Activities,"Activities auxiliary to financial service, except insurance and pension funding",Higher Education,Yes,No,1.4984326197157478,0.5613888888888888
 Junior Business Analyst,Financial and Insurance Activities,"Activities auxiliary to financial service, except insurance and pension funding",Higher Education,No,No,1.4984326197157478,0.5613888888888888
 Junior Business News Writer,Information and Communication,"Publishing of books, periodicals and other publishing activities",Higher Education,No,No,1.1083010062005718,0.6130555555555556
@@ -591,7 +599,7 @@ Junior Quantitative Analyst,Financial and Insurance Activities,Fund management a
 Junior Risk Analyst,Financial and Insurance Activities,"Activities auxiliary to financial service, except insurance and pension funding",Higher Education,No,No,1.4984326197157478,0.5613888888888888
 Junior Software Developer,Information and Communication,"Computer programming, consultancy and related activities",Higher Education,No,No,1.2355878663736692,0.5585861823361823
 Junior Software Engineer,Information and Communication,"Computer Programming, Consultancy and Related Activities",Higher Education,No,No,1.2355878663736692,0.5585861823361823
-Junior Statistician,Financial and Insurance Activities,"Activities auxiliary to financial service, except insurance and pension funding",Higher Education,No,No,1.1982784617699302,0.6162967995169083
+Junior Statistician,Financial and Insurance Activities,"Activities auxiliary to financial service, except insurance and pension funding",Higher Education,No,No,1.1962758695210862,0.6164937943262411
 Junior Systems Administrator,Information and Communication,"Computer programming, consultancy and related activities",Higher Education,No,No,0.7714307163971404,0.5388888888888889
 Junior Trade and Culture Analyst,Public Administration and Defense; Compulsory Social Security,Public Administration and Defense; Compulsory Social Security,Higher Education,No,No,1.369842507381068,0.6147222222222223
 Kiln Operator,Manufacturing,"Manufacture of non-metallic mineral products, n.e.c.",Higher Education,No,Yes,-1.3185293182389948,0.5666666666666667
@@ -628,7 +636,7 @@ Library Clerk,"Arts, Entertainment and Recreation","Libraries, archives, museums
 Library Technician,"Arts, Entertainment and Recreation","Libraries, archives, museums and other cultural activities",Higher Education,Yes,No,-0.8672596469857901,0.4680555555555555
 Licensed Aeronautical Engineer,Manufacturing,Manufacture of air and spacecraft and related machinery,Higher Education,Yes,No,1.167377784026609,0.6280555555555556
 Licensed Agricultural and Biosystems Engineer,"Agriculture, Forestry, and Fishing",Support activities to agriculture and post-harvest crop activities,Higher Education,Yes,No,0.5129253723597855,0.6382638888888889
-Licensed Agriculturist,"Agriculture, Forestry, and Fishing",Growing of non-perennial crops,Higher Education,Yes,No,1.1982784617699302,0.6162967995169083
+Licensed Agriculturist,"Agriculture, Forestry, and Fishing",Growing of non-perennial crops,Higher Education,Yes,No,1.1962758695210862,0.6164937943262411
 Licensed Aquaculturist,"Agriculture, Forestry, and Fishing",Aquaculture,Higher Education,No,No,-1.0922437980466209,0.6463888888888889
 Licensed Architect,"Professional, Scientific and Technical Activities",Architectural and engineering activities and related technical consultancy,Higher Education,Yes,No,1.0614157123926595,0.6747222222222223
 Licensed Chemist,"Professional, Scientific and Technical Activities","Other professional, scientific and technical activities, n.e.c.",Higher Education,Yes,No,1.3942922371302795,0.6652777777777777
@@ -653,7 +661,7 @@ Livelihood Education Teacher,Education,Secondary/high school education,Higher Ed
 Livestock Agriculture Technician,"Agriculture, Forestry, and Fishing",Animal production,Higher Education,Yes,No,-0.4095517524310084,0.6209722222222223
 Livestock Health Technician,Manufacturing,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Not Higher Education,No,No,-0.8265822627679962,0.5972222222222222
 Livestock Raiser,"Agriculture, Forestry, and Fishing",Animal production,Not Higher Education,No,No,-1.1166346396376288,0.5847222222222223
-Loan Processing Assistant,Financial and Insurance Activities,Monetary intermediation,Higher Education,No,Yes,1.0117367283079466,0.5210816125860372
+Loan Processing Assistant,Financial and Insurance Activities,Monetary intermediation,Higher Education,No,Yes,1.0117367283079466,0.5203728070175438
 Local Government Contact Tracer,Human Health and Social Work Activities,"Other social work activities without accommodation, n.e.c.",Not Higher Education,No,No,0.2380110444547259,0.6536211755233494
 Local Heritage Specialist,"Arts, Entertainment and Recreation","Libraries, archives, museums and other cultural activities",Higher Education,No,No,0.7188278381031682,0.6888888888888888
 Logic Teaching Aide,Education,Other Education,Higher Education,No,Yes,-0.5276871682377668,0.6126388888888888
@@ -667,10 +675,11 @@ Machine Design Engineer,"Professional, Scientific and Technical Activities",Arch
 Machine Learning Engineer,Information and Communication,"Computer programming, consultancy and related activities",Higher Education,No,No,1.2355878663736692,0.5585861823361823
 Machine Operator,Manufacturing,"Other manufacturing, n.e.c.",Higher Education,No,Yes,1.2355878663736692,0.5574537037037037
 Machine Operator (Transportation and Storage),Transportation and Storage,Support activities for transportation,Higher Education,No,Yes,-0.7654642333588086,0.5313888888888889
-Machinist,Manufacturing,Manufacture of general purpose machinery,Not Higher Education,No,No,-0.883448634209523,0.5301327532351628
-Magician,"Arts, Entertainment and Recreation",Other amusement and recreation activities,Not Higher Education,No,No,0.733024170282144,0.5563811007268952
+Machinist,Manufacturing,Manufacture of general purpose machinery,Not Higher Education,No,No,-0.8341351787751918,0.5330229377104376
+Magician,"Arts, Entertainment and Recreation",Other amusement and recreation activities,Not Higher Education,No,No,0.733024170282144,0.5569264403292181
 Mail and Document Clerk,Transportation and Storage,"Postal activities, Courier activities",Higher Education,No,Yes,-0.828177528731795,0.5691666666666667
 Maintenance Fitter,Manufacturing,"Other manufacturing, n.e.c.",Higher Education,No,No,-1.049182638556866,0.7641666666666665
+Maintenance Laborer,Construction,Construction of buildings,Not Higher Education,No,No,-1.0016298223561515,0.6969444444444443
 Maintenance Line Worker,"Electricity, Gas, Steam and Air Conditioning Supply","Electric power generation, transmission and distribution",Not Higher Education,No,No,-1.2416423994528298,0.7380555555555556
 Maintenance Technician,Manufacturing,"Other manufacturing, n.e.c.",Higher Education,No,Yes,-0.0372319794758209,0.5897222222222221
 Maintenance Technician (Construction),Construction,Building completion and finishing,Not Higher Education,No,No,-0.9863345860553324,0.7455555555555556
@@ -680,9 +689,9 @@ Mango Grower,"Agriculture, Forestry, and Fishing",Growing of perennial crops,Not
 Mangosteen Grower,"Agriculture, Forestry, and Fishing",Growing of non-perennial crops,Not Higher Education,No,No,-1.153152853548008,0.49638888888888894
 Manufacturing Engineer,"Professional, Scientific and Technical Activities",Architectural and engineering activities and related technical consultancy,Higher Education,Yes,No,1.3022721729014886,0.6582638888888889
 Manufacturing Equipment Technician,Manufacturing,Installation of industrial machinery and equipment,Higher Education,No,Yes,-0.0372319794758209,0.5897222222222221
-Marine Biology Research Assistant,"Professional, Scientific and Technical Activities",Research and experimental development on natural sciences and engineering,Higher Education,No,Yes,1.1982784617699302,0.6162967995169083
+Marine Biology Research Assistant,"Professional, Scientific and Technical Activities",Research and experimental development on natural sciences and engineering,Higher Education,No,Yes,1.1962758695210862,0.6164937943262411
 Marine Biology Technician,"Professional, Scientific and Technical Activities",Research and experimental development on natural sciences and engineering,Higher Education,No,Yes,-0.0372319794758209,0.5897222222222221
-Marine Conservation Aide,"Professional, Scientific and Technical Activities","Other professional, scientific and technical activities, n.e.c.",Higher Education,No,Yes,1.1982784617699302,0.6162967995169083
+Marine Conservation Aide,"Professional, Scientific and Technical Activities","Other professional, scientific and technical activities, n.e.c.",Higher Education,No,Yes,1.1962758695210862,0.6164937943262411
 Marine Data Analyst,"Professional, Scientific and Technical Activities",Research and experimental development on natural sciences and engineering,Higher Education,No,No,-0.0372319794758209,0.5897222222222221
 Marine Navigation and Port Operations Officer,Transportation and Storage,"Sea and coastal water transport, Inland water transport",Higher Education,No,No,-0.7138985758488017,0.7611111111111111
 Market & Social Researcher,"Professional, Scientific and Technical Activities",Research and experimental development on social sciences and humanities,Higher Education,No,No,0.7743766257616718,0.5294444444444445
@@ -692,7 +701,7 @@ Marketing Professional (Manufacturing),Manufacturing,"Other manufacturing, n.e.c
 Marriage Counselor,Human Health and Social Work Activities,"Other social work activities without accommodation, n.e.c.",Higher Education,No,No,0.7806366196871929,0.6655492424242423
 Mass Media Coordinator,"Professional, Scientific and Technical Activities",Advertising,Higher Education,No,Yes,0.7743766257616718,0.5294444444444445
 Massage Therapist,Other Service Activities,"Personal services for wellness, except sports activities",Not Higher Education,No,No,-1.471164493027073,0.5808333333333333
-Master Tagger,"Agriculture, Forestry, and Fishing",Support activities to agriculture and post-harvest crop activities,Not Higher Education,No,No,1.1982784617699302,0.6162967995169083
+Master Tagger,"Agriculture, Forestry, and Fishing",Support activities to agriculture and post-harvest crop activities,Not Higher Education,No,No,1.1962758695210862,0.6164937943262411
 Mat Weaver,Manufacturing,"Spinning, weaving and finishing of textiles",Not Higher Education,No,No,-0.8841484845166345,0.48583333333333334
 Material Handlers,Manufacturing,Manufacture of other fabricated metal products; metal working service activities,Higher Education,No,No,-1.0459581106723304,0.4680555555555555
 Material Inventory Assistants / Warehouse,Construction,Construction of buildings,Not Higher Education,No,No,0.8309021883201236,0.5822222222222222
@@ -706,9 +715,9 @@ Mechanical Designer,Manufacturing,Manufacture of special purpose machinery,Highe
 Mechanical Draftsman,"Professional, Scientific and Technical Activities",Architectural and engineering activities and related technical consultancy,Higher Education,No,Yes,-0.5800703514608596,0.4575
 Mechatronics and Automation Technician,Manufacturing,Manufacture of general purpose machinery,Not Higher Education,No,No,-1.5566147016651897,0.6050000000000001
 Mechatronics Engineer,"Professional, Scientific and Technical Activities",Architectural and engineering activities and related technical consultancy,Higher Education,Yes,No,1.167377784026609,0.6280555555555556
-Media Arts Teaching Assistant,Education,Other education services,Higher Education,Yes,No,0.733024170282144,0.5563811007268952
-Media Planning Assistant,Information and Communication,"Motion picture, video and television programme activities",Higher Education,No,Yes,0.733024170282144,0.5563811007268952
-Media Production Assistant,Information and Communication,"Motion picture, video and television programme activities",Higher Education,No,Yes,0.733024170282144,0.5563811007268952
+Media Arts Teaching Assistant,Education,Other education services,Higher Education,Yes,No,0.733024170282144,0.5569264403292181
+Media Planning Assistant,Information and Communication,"Motion picture, video and television programme activities",Higher Education,No,Yes,0.733024170282144,0.5569264403292181
+Media Production Assistant,Information and Communication,"Motion picture, video and television programme activities",Higher Education,No,Yes,0.733024170282144,0.5569264403292181
 Media Relations Officer,"Professional, Scientific and Technical Activities",Advertising,Higher Education,No,No,1.2230614224333591,0.6141666666666666
 Medical Assistant,Human Health and Social Work Activities,Medical and dental practice activities,Higher Education,No,Yes,0.131317826544596,0.5872222222222223
 Medical Claims Associate,Human Health and Social Work Activities,Hospital activities,Higher Education,No,Yes,1.0618111569602473,0.4263888888888889
@@ -725,12 +734,13 @@ Medical Transcriptionist,Human Health and Social Work Activities,Other human hea
 Mental Health Program Officer,Human Health and Social Work Activities,"Other social work activities without accommodation, n.e.c.",Higher Education,No,No,0.7806366196871929,0.6691666666666666
 Messman,Accommodation and Food Service Activities,Other accommodation,Not Higher Education,No,No,-0.6267809371496645,0.5396732026143791
 Metadata Specialist,Information and Communication,Other information service activities,Higher Education,No,No,1.4774993998129229,0.6063888888888888
-Metallurgical Technician,"Professional, Scientific and Technical Activities","Other professional, scientific and technical activities, n.e.c.",Higher Education,No,Yes,1.1982784617699302,0.6162967995169083
-Microbiology Lab Assistant,"Professional, Scientific and Technical Activities",Research and experimental development on natural sciences and engineering,Higher Education,No,Yes,1.1982784617699302,0.6162967995169083
+Metallurgical Technician,"Professional, Scientific and Technical Activities","Other professional, scientific and technical activities, n.e.c.",Higher Education,No,Yes,1.1962758695210862,0.6164937943262411
+Microbiology Lab Assistant,"Professional, Scientific and Technical Activities",Research and experimental development on natural sciences and engineering,Higher Education,No,Yes,1.1962758695210862,0.6164937943262411
 Microfinance Loan Officer,Financial and Insurance Activities,Monetary intermediation,Not Higher Education,No,No,1.2375369086685346,0.6316666666666667
+Milk Processing Technician,Manufacturing,Manufacture of dairy products,Higher Education,No,No,-0.9694564085988252,0.5850000000000001
 Millwright,Construction,Construction of buildings,Higher Education,No,No,-1.049182638556866,0.7641666666666665
 Mine Safety Engineer,Mining and Quarrying,Mining of Metal Ores,Higher Education,Yes,No,0.5129253723597855,0.6382638888888889
-Ministry Program Assistant,Human Health and Social Work Activities,"Other social work activities without accommodation, n.e.c.",Higher Education,No,Yes,1.0117367283079466,0.5210816125860372
+Ministry Program Assistant,Human Health and Social Work Activities,"Other social work activities without accommodation, n.e.c.",Higher Education,No,Yes,1.0117367283079466,0.5203728070175438
 MIS Technical Support (Healthcare),Human Health and Social Work Activities,Hospital activities,Higher Education,No,No,1.2355878663736692,0.5585861823361823
 Mobile Air-Conditioning (MAC) Technician,"Electricity, Gas, Steam and Air Conditioning Supply",Airconditioning and Refrigeration,Not Higher Education,No,No,-0.9106473891239084,0.686111111111111
 Mobile Phones And Handheld Gadgets Technician,Manufacturing,Manufacture of consumer electronics,Not Higher Education,No,No,0.2307035718843949,0.6161111111111112
@@ -751,14 +761,14 @@ Museum Researcher,"Arts, Entertainment and Recreation","Libraries, archives, mus
 Museum Technician,"Arts, Entertainment and Recreation","Libraries, archives, museums and other cultural activities",Higher Education,No,Yes,-0.8672596469857901,0.4680555555555555
 Museums / Zoos / Aquariums Personnel,"Arts, Entertainment and Recreation",Other amusement and recreation activities,Not Higher Education,No,No,-0.8672596469857901,0.4680555555555555
 Music Arranger Assistant,"Arts, Entertainment and Recreation","Creative, arts and entertainment activities",Higher Education,No,Yes,-0.0481137107809598,0.5141666666666667
-Music Production Assistant,Information and Communication,Sound recording and music publishing activities,Higher Education,No,Yes,0.733024170282144,0.5563811007268952
+Music Production Assistant,Information and Communication,Sound recording and music publishing activities,Higher Education,No,Yes,0.733024170282144,0.5569264403292181
 Music Teacher (Choral Director),Education,Other education services,Higher Education,Yes,No,0.5095961456095874,0.6
 Nail Technician,Other Service Activities,"Personal services for wellness, except sports activities",Not Higher Education,No,No,-0.1802445932619149,0.6108333333333333
 Natural Resource Planner,"Professional, Scientific and Technical Activities","Other professional, scientific and technical activities, n.e.c.",Higher Education,No,Yes,1.121407837793284,0.6320138888888889
 Natural Resources Technician,"Professional, Scientific and Technical Activities","Other professional, scientific and technical activities, n.e.c.",Higher Education,No,Yes,-0.0372319794758209,0.5897222222222221
 Network Cabling Technician,Manufacturing,Manufacture of communication equipment,Not Higher Education,No,Yes,1.2355878663736692,0.5585861823361823
 Network Operations Technician,Information and Communication,"Computer programming, consultancy and related activities",Higher Education,No,Yes,1.2355878663736692,0.5585861823361823
-News Production Assistant,Information and Communication,Programming and Broadcasting Activities,Higher Education,No,Yes,0.733024170282144,0.5563811007268952
+News Production Assistant,Information and Communication,Programming and Broadcasting Activities,Higher Education,No,Yes,0.733024170282144,0.5569264403292181
 News Reporter,Information and Communication,Programming and Broadcasting Activities,Higher Education,No,No,1.1083010062005718,0.6130555555555556
 Newsroom Assistant,Information and Communication,Programming and Broadcasting Activities,Higher Education,No,Yes,1.0159515689880594,0.7358333333333333
 Nurse Anaesthetist,Human Health and Social Work Activities,Medical and dental practice activities,Higher Education,Yes,No,0.2700903207777707,0.7450000000000001
@@ -804,8 +814,8 @@ Performance and Rewards Associate,Administrative and Support Service Activities,
 Performance Assistant,"Arts, Entertainment and Recreation","Creative, arts and entertainment activities",Higher Education,No,Yes,1.2970972393926237,0.538611111111111
 Performance Specialist,Administrative and Support Service Activities,Other human resources provision,Higher Education,No,No,1.3320301230028002,0.5302777777777777
 Personal Care Aide,Human Health and Social Work Activities,"Other residential care activities, n.e.c.",Not Higher Education,No,No,-0.4413828025834359,0.5907306763285024
-Pest Management Assistant,"Agriculture, Forestry, and Fishing",Support activities to agriculture and post-harvest crop activities,Higher Education,No,Yes,1.1982784617699302,0.6162967995169083
-Pest-Control Technician,"Agriculture, Forestry, and Fishing",Support activities to agriculture and post-harvest crop activities,Not Higher Education,No,No,1.1982784617699302,0.6162967995169083
+Pest Management Assistant,"Agriculture, Forestry, and Fishing",Support activities to agriculture and post-harvest crop activities,Higher Education,No,Yes,1.1962758695210862,0.6164937943262411
+Pest-Control Technician,"Agriculture, Forestry, and Fishing",Support activities to agriculture and post-harvest crop activities,Not Higher Education,No,No,1.1962758695210862,0.6164937943262411
 Pharmaceutical Laboratory Analyst,Human Health and Social Work Activities,Other human health activities,Higher Education,Yes,No,-0.0177127598503812,0.5725
 Pharmaceutical Machine Operator,Manufacturing,"Manufacture of pharmaceuticals, medicinal chemical and botanical products",Not Higher Education,No,No,-1.1230266200713226,0.5273611111111112
 Pharmacy Assistant,Human Health and Social Work Activities,Other human health activities,Not Higher Education,No,No,-0.0177127598503812,0.5725
@@ -841,7 +851,7 @@ Port Operations Assistant,Transportation and Storage,"Sea and coastal water tran
 Post-Harvest Workers,"Agriculture, Forestry, and Fishing",Post-harvest crop activities,Not Higher Education,No,No,-1.153152853548008,0.5406076388888889
 Postproduction Assistant,Information and Communication,"Motion picture, video and television programme activities",Not Higher Education,No,No,0.9134893505999866,0.5563888888888889
 Poultry Farmer,"Agriculture, Forestry, and Fishing",Animal production,Not Higher Education,No,No,-1.1166346396376288,0.5847222222222223
-Poultry Processing Specialist,"Agriculture, Forestry, and Fishing",Animal production,Not Higher Education,No,No,1.1982784617699302,0.6162967995169083
+Poultry Processing Specialist,"Agriculture, Forestry, and Fishing",Animal production,Not Higher Education,No,No,1.1962758695210862,0.6164937943262411
 Preschool Teacher,Education,Pre-primary education,Higher Education,Yes,No,0.3484516434659395,0.6813888888888889
 Preschool Teaching Aide,Education,Pre-primary education,Higher Education,No,Yes,0.8006554663832743,0.695328282828283
 Press Worker,Manufacturing,Printing and service activities related to printing,Not Higher Education,No,No,-0.7848217233408605,0.5352777777777779
@@ -855,8 +865,9 @@ Processing Staff/Worker,"Agriculture, Forestry, and Fishing",Post-harvest crop a
 Procurement Associate,Real Estate Activities,Real Estate Activities on a Fee or Contract Basis,Higher Education,Yes,No,1.4742814213283415,0.5972222222222223
 Procurement Staff (Construction),Construction,Construction of buildings,Higher Education,Yes,No,1.4742814213283415,0.5972222222222223
 Product Development Assistant,"Professional, Scientific and Technical Activities","Other professional, scientific and technical activities, n.e.c.",Higher Education,No,Yes,0.0882226573666494,0.5626388888888889
+Product Development Technician,Manufacturing,Manufacture of other food products,Higher Education,Yes,No,0.5129253723597855,0.6382638888888889
 Product Quality Inspector,Manufacturing,"Other manufacturing, n.e.c.",Higher Education,No,No,-0.3543641233050396,0.5880555555555556
-Production Machine Operator,Manufacturing,Manufacture of general purpose machinery,Not Higher Education,No,No,-0.883448634209523,0.5301327532351628
+Production Machine Operator,Manufacturing,Manufacture of general purpose machinery,Not Higher Education,No,No,-0.8341351787751918,0.5330229377104376
 Production Plant Assistant,Manufacturing,"Other manufacturing, n.e.c.",Higher Education,No,Yes,-0.8516980640166639,0.688888888888889
 Production Scheduling Analyst,Manufacturing,"Other manufacturing, n.e.c.",Higher Education,No,No,1.3022721729014886,0.6582638888888889
 Professional Driver,Transportation and Storage,Other land transport,Not Higher Education,No,No,-0.5689450320871856,0.6258333333333334
@@ -894,6 +905,7 @@ Quality Controller,"Agriculture, Forestry, and Fishing",Post-harvest crop activi
 Quality Improvement Analyst,Manufacturing,"Other manufacturing, n.e.c.",Higher Education,No,No,1.2355878663736692,0.5574537037037037
 Quantity Surveyors (Construction),Construction,Demolition and site preparation,Not Higher Education,No,No,0.5129253723597855,0.6382638888888889
 R&D Chef,Accommodation and Food Service Activities,Restaurants and mobile food service activities,Higher Education,No,No,1.3320301230028002,0.5302777777777777
+R&D Food Specialist,Manufacturing,Manufacture of other food products,Higher Education,Yes,No,0.6846442626306308,0.6255555555555555
 Radiation Therapist,Human Health and Social Work Activities,Medical and dental practice activities,Higher Education,Yes,No,-0.1207078752623671,0.6288888888888889
 Radiation Therapy Assistant,Human Health and Social Work Activities,Other human health activities,Higher Education,No,Yes,-0.1207078752623671,0.6288888888888889
 Radio Producer Assistant,Information and Communication,Radio broadcasting,Higher Education,No,Yes,1.1083010062005718,0.6130555555555556
@@ -925,7 +937,7 @@ Rewards Specialist,Administrative and Support Service Activities,Other human res
 RF Systems Engineer,Manufacturing,Manufacture of communication equipment,Higher Education,Yes,No,0.6853776260103156,0.5906944444444444
 Rice Farmer,"Agriculture, Forestry, and Fishing",Growing of non-perennial crops,Not Higher Education,No,No,-1.153152853548008,0.49638888888888894
 Rice Land Preparation Machinery Operator (Hand Tractor),"Agriculture, Forestry, and Fishing",Support activities to agriculture and post-harvest crop activities,Not Higher Education,No,No,-1.012423592144586,0.5769444444444445
-Rice Production Assistant,"Agriculture, Forestry, and Fishing",Growing of non-perennial crops,Higher Education,No,Yes,1.1982784617699302,0.6162967995169083
+Rice Production Assistant,"Agriculture, Forestry, and Fishing",Growing of non-perennial crops,Higher Education,No,Yes,1.1962758695210862,0.6164937943262411
 Ride Operator,"Arts, Entertainment and Recreation",Other amusement and recreation activities,Not Higher Education,No,No,-1.2416423994528298,0.7380555555555556
 Rigger,Construction,Demolition and site preparation,Not Higher Education,No,No,-1.2235422092033756,0.7047222222222222
 Rigid On-Highway Dump Truck Operator,Construction,Demolition and site preparation,Not Higher Education,No,No,-1.100644052209415,0.6174999999999999
@@ -962,12 +974,13 @@ Sea Patrol (Bantay Dagat),Public Administration and Defense; Compulsory Social S
 Seafarers,Transportation and Storage,Sea and coastal water transport,Higher Education,No,No,-0.7138985758488017,0.7611111111111111
 Seamer Operator,Manufacturing,Manufacture of parts and accessories for motor vehicles,Not Higher Education,No,No,-0.9874640384182614,0.5591666666666667
 Seaweed Nursery Operator,"Agriculture, Forestry, and Fishing",Aquaculture,Not Higher Education,No,No,-2.0896117392961986,0.49916666666666676
-Seaweed Processor,Manufacturing,"Processing and preserving of fish, crustaceans and mollusks",Not Higher Education,No,No,-0.883448634209523,0.5301327532351628
+Seaweed Processor,Manufacturing,"Processing and preserving of fish, crustaceans and mollusks",Not Higher Education,No,No,-0.8341351787751918,0.5330229377104376
 Security Analyst Associate,Administrative and Support Service Activities,"Business support service activities, n.e.c.",Higher Education,No,Yes,1.2355878663736692,0.5574537037037037
 Security Guard,Administrative and Support Service Activities,Private security activities,Not Higher Education,No,No,-0.5182191975946915,0.5377777777777778
 Security Operations Center (SOC) Analyst,Information and Communication,"Data processing, hosting and related activities; web portals",Not Higher Education,No,No,1.2355878663736692,0.5574537037037037
 Security Operations Staff,Administrative and Support Service Activities,Private security activities,Higher Education,No,No,-0.5182191975946915,0.5377777777777778
 Semiconductor Machine Technician,Manufacturing,Manufacture of electronic components,Not Higher Education,No,No,0.2307035718843949,0.6161111111111112
+Semiconductor Operator,Manufacturing,Manufacture of electronic components,Not Higher Education,No,No,-0.6656689492869381,0.4597222222222222
 Semiconductor Production Operator,Manufacturing,Manufacture of electronic components,Not Higher Education,No,No,-0.7654642333588086,0.5313888888888889
 Seminary Support Staff,Human Health and Social Work Activities,"Other social work activities without accommodation, n.e.c.",Higher Education,No,No,0.7806366196871929,0.6655492424242423
 Senior Caregiver,Human Health and Social Work Activities,Residential care activities for the elderly and disabled,Not Higher Education,No,No,-0.4413828025834359,0.5907306763285024
@@ -991,12 +1004,12 @@ Social Welfare Assistant (Healthcare),Human Health and Social Work Activities,So
 Social Work Associate,Human Health and Social Work Activities,"Other social work activities without accommodation, n.e.c.",Higher Education,Yes,No,0.7806366196871929,0.6655492424242423
 Software Quality Assurance Assistant,Information and Communication,"Computer programming, consultancy and related activities",Higher Education,No,Yes,1.2355878663736692,0.5574537037037037
 Soil And Nutrient Technologist,"Agriculture, Forestry, and Fishing",Plant propagation,Not Higher Education,No,No,0.8006554663832743,0.706111111111111
-Soil and Plant Lab Technician,"Professional, Scientific and Technical Activities","Other professional, scientific and technical activities, n.e.c.",Higher Education,No,Yes,1.1982784617699302,0.6162967995169083
+Soil and Plant Lab Technician,"Professional, Scientific and Technical Activities","Other professional, scientific and technical activities, n.e.c.",Higher Education,No,Yes,1.1962758695210862,0.6164937943262411
 Soil and Plant Scientists,"Professional, Scientific and Technical Activities",Research and experimental development on natural sciences and engineering,Higher Education,No,No,0.8006554663832743,0.706111111111111
 Solar Night Light And Post Lamp Assembler,Manufacturing,Manufacture of electric lighting equipment,Not Higher Education,No,No,-0.6501212176431842,0.5002777777777777
 Sonar Fishing Operator,"Agriculture, Forestry, and Fishing",Fishing,Not Higher Education,No,No,-1.3653770485609695,0.6044444444444445
-Sonar Technician,Transportation and Storage,Support activities for transportation,Not Higher Education,No,No,0.733024170282144,0.5563811007268952
-Sound Technician,Information and Communication,Sound recording and music publishing activities,Higher Education,No,Yes,0.733024170282144,0.5563811007268952
+Sonar Technician,Transportation and Storage,Support activities for transportation,Not Higher Education,No,No,0.733024170282144,0.5569264403292181
+Sound Technician,Information and Communication,Sound recording and music publishing activities,Higher Education,No,Yes,0.733024170282144,0.5569264403292181
 Specialized Carpenter,Construction,Construction of buildings,Not Higher Education,No,No,-1.1755193089724034,0.6755555555555556
 SPED Teacher,Education,Other education services,Higher Education,Yes,No,-0.6104688928723081,0.7791666666666668
 SPED Teacher (Primary),Education,Pre-primary education,Higher Education,Yes,No,-0.6104688928723081,0.7791666666666668
@@ -1008,7 +1021,7 @@ Sports Events Assistant,"Arts, Entertainment and Recreation",Sports activities,H
 Sports Program Assistant,"Arts, Entertainment and Recreation",Sports activities,Higher Education,No,Yes,-2.032514091161482,0.6602777777777779
 Spotters,Construction,Other specialized construction activities,Not Higher Education,No,No,-1.15238606969144,0.6467751736111111
 Stage Performer,"Arts, Entertainment and Recreation","Creative, arts and entertainment activities",Higher Education,No,No,0.1441760056865995,0.5872222222222222
-Stamping Machine Operators,Construction,Construction of buildings,Higher Education,Yes,No,-0.883448634209523,0.5301327532351628
+Stamping Machine Operators,Construction,Construction of buildings,Higher Education,Yes,No,-0.8341351787751918,0.5330229377104376
 Startup Operations Assistant,"Professional, Scientific and Technical Activities","Other professional, scientific and technical activities, n.e.c.",Higher Education,No,Yes,1.390653349799162,0.6652777777777777
 Startup Program Intern,Administrative and Support Service Activities,"Business support service activities, n.e.c.",Higher Education,No,No,1.390653349799162,0.6652777777777777
 Statistical Assistant,Financial and Insurance Activities,"Activities auxiliary to financial service, except insurance and pension funding",Higher Education,No,Yes,1.2970972393926237,0.538611111111111
@@ -1021,12 +1034,12 @@ Strategic Communications Officer,"Professional, Scientific and Technical Activit
 Strategic Communications Specialist,"Professional, Scientific and Technical Activities",Advertising,Higher Education,No,No,1.2355878663736692,0.5585861823361823
 Structural Design Technician,"Professional, Scientific and Technical Activities",Architectural and engineering activities and related technical consultancy,Higher Education,Yes,No,1.303068832130924,0.6426851851851851
 Structural Steel Erector,Construction,Construction of buildings,Not Higher Education,No,No,-1.1411657620028337,0.5663888888888888
-Sugarcane Field Technician,"Agriculture, Forestry, and Fishing",Growing of non-perennial crops,Higher Education,No,Yes,1.1982784617699302,0.6162967995169083
+Sugarcane Field Technician,"Agriculture, Forestry, and Fishing",Growing of non-perennial crops,Higher Education,No,Yes,1.1962758695210862,0.6164937943262411
 Sugarcane Planter,"Agriculture, Forestry, and Fishing",Growing of perennial crops,Not Higher Education,No,No,-0.9694564085988252,0.5850000000000001
 Supply Chain Officer (Healthcare),Human Health and Social Work Activities,Hospital activities,Higher Education,No,No,-0.1990509675516624,0.5297222222222222
 Supply Chain Specialist,Transportation and Storage,Support activities for transportation,Not Higher Education,No,No,-0.4471441743981977,0.688888888888889
 Surf Instructor,Other Service Activities,"Personal services for wellness, except sports activities",Not Higher Education,No,No,-2.032514091161482,0.6602777777777779
-Surveillance Officer (CCTV Operation),Administrative and Support Service Activities,Security systems service activities,Higher Education,No,No,0.733024170282144,0.5563811007268952
+Surveillance Officer (CCTV Operation),Administrative and Support Service Activities,Security systems service activities,Higher Education,No,No,0.733024170282144,0.5569264403292181
 Surveying Technician,"Professional, Scientific and Technical Activities",Architectural and engineering activities and related technical consultancy,Higher Education,Yes,No,0.3600520511318562,0.6393055555555555
 Sustainability Assistant,"Professional, Scientific and Technical Activities","Other professional, scientific and technical activities, n.e.c.",Higher Education,No,Yes,1.121407837793284,0.6320138888888889
 Swine Artificial Insemination Technician,"Agriculture, Forestry, and Fishing",Animal production,Not Higher Education,No,No,-0.8265822627679962,0.5972222222222222
@@ -1041,7 +1054,7 @@ Talent Management Specialist,Administrative and Support Service Activities,Other
 Tappers,"Agriculture, Forestry, and Fishing",Support activities to agriculture and post-harvest crop activities,Not Higher Education,No,No,-1.153152853548008,0.49638888888888894
 Taro Processor,Manufacturing,Processing and preserving of fruits and vegetables,Not Higher Education,No,No,-0.9694564085988252,0.5850000000000001
 Tax Accountant,Financial and Insurance Activities,"Accounting, bookkeeping and auditing activities; tax consultancy",Higher Education,Yes,No,1.3620743346972182,0.45416666666666666
-Taxi Drivers,Transportation and Storage,Other land transport,Not Higher Education,No,No,-0.7138985758488017,0.619978354978355
+Taxi Drivers,Transportation and Storage,Other land transport,Not Higher Education,No,No,-0.7138985758488017,0.6217877492877494
 Technical Communicator,"Professional, Scientific and Technical Activities","Other professional, scientific and technical activities, n.e.c.",Higher Education,No,No,0.7743766257616718,0.5294444444444445
 Technical Project Assistant,Information and Communication,"Computer programming, consultancy and related activities",Higher Education,No,Yes,1.2355878663736692,0.5585861823361823
 Technical Support Specialist,Information and Communication,"Computer programming, consultancy and related activities",Higher Education,No,No,1.2355878663736692,0.5574537037037037
@@ -1095,9 +1108,9 @@ Values Education Teacher,Education,"Primary/elementary education, Secondary/high
 Vector Control Assistant,"Professional, Scientific and Technical Activities","Other professional, scientific and technical activities, n.e.c.",Higher Education,No,Yes,0.195081275698469,0.6889814814814814
 Vehicle Mechanic,Manufacturing,Manufacture of motor vehicles,Higher Education,No,No,-1.5566147016651897,0.6050000000000001
 Veterinary Lab Technician,"Agriculture, Forestry, and Fishing",Animal production,Higher Education,No,Yes,-0.8265822627679962,0.5972222222222222
-Video Editing Assistant,Information and Communication,"Motion picture, video and television programme activities",Higher Education,No,Yes,0.733024170282144,0.5563811007268952
+Video Editing Assistant,Information and Communication,"Motion picture, video and television programme activities",Higher Education,No,Yes,0.733024170282144,0.5569264403292181
 Video Post-Production Editor,Information and Communication,"Motion picture, video and television programme activities",Not Higher Education,No,No,0.9134893505999866,0.5563888888888889
-Video Production Assistant,Information and Communication,"Motion picture, video and television programme activities",Higher Education,No,Yes,0.733024170282144,0.5563811007268952
+Video Production Assistant,Information and Communication,"Motion picture, video and television programme activities",Higher Education,No,Yes,0.733024170282144,0.5569264403292181
 Virtual Assistant,Administrative and Support Service Activities,"Business support service activities, n.e.c.",Not Higher Education,No,No,1.0600457450196432,0.5005555555555555
 Visual Designer,"Arts, Entertainment and Recreation","Creative, arts and entertainment activities",Higher Education,No,No,0.4050940821041838,0.6502777777777778
 Visual Effects Assistant,"Arts, Entertainment and Recreation","Creative, arts and entertainment activities",Higher Education,No,Yes,0.733024170282144,0.563888888888889
@@ -1117,7 +1130,9 @@ Warehouseman (Healthcare),Human Health and Social Work Activities,Hospital activ
 Waste Handler (Manufacturing),Manufacturing,Manufacture of other food products,Not Higher Education,No,No,-1.4535586106918108,0.5136111111111111
 Waste Management Officer (Manufacturing),Manufacturing,"Other manufacturing, n.e.c.",Higher Education,No,No,0.195081275698469,0.6889814814814814
 Waste Officer (Healthcare),Human Health and Social Work Activities,Hospital activities,Higher Education,No,No,0.195081275698469,0.6889814814814814
+Wastewater Treatment Specialist,"Water Supply; Sewerage, Waste Management and Remediation",Waste treatment and disposal,Higher Education,Yes,No,-0.5354943497652578,0.6405555555555555
 Water Quality Analyst,"Water Supply; Sewerage, Waste Management and Remediation","Water collection, treatment and supply",Higher Education,No,No,1.121407837793284,0.6320138888888889
+Water Quality Engineer,"Water Supply; Sewerage, Waste Management and Remediation","Water collection, treatment and supply",Higher Education,Yes,No,1.0699352703170644,0.6638888888888889
 Water Well Installer,Construction,"Electrical, plumbing and other construction installation activities",Not Higher Education,No,No,-1.0995030656189302,0.6077777777777776
 Waterside Worker,Transportation and Storage,Sea and coastal water transport,Not Higher Education,No,No,-1.394520359139548,0.6941666666666667
 Web Application Developer,Information and Communication,"Computer programming, consultancy and related activities",Not Higher Education,No,No,1.2355878663736692,0.5585861823361823
@@ -1131,7 +1146,7 @@ Wheel-Loader Operator,Construction,Demolition and site preparation,Not Higher Ed
 Wildlife Field Assistant,"Professional, Scientific and Technical Activities","Other professional, scientific and technical activities, n.e.c.",Higher Education,No,Yes,-0.8265822627679962,0.5972222222222222
 Wind Turbine Technician,"Electricity, Gas, Steam and Air Conditioning Supply","Electric power generation, transmission and distribution",Not Higher Education,No,No,-0.2923061417176008,0.6056944444444444
 Window Cleaner,Accommodation and Food Service Activities,Other accommodation,Higher Education,No,No,-1.2182870337341567,0.6313888888888889
-Wood Carver,Manufacturing,Manufacture of furniture,Not Higher Education,No,No,-0.883448634209523,0.5301327532351628
+Wood Carver,Manufacturing,Manufacture of furniture,Not Higher Education,No,No,-0.8341351787751918,0.5330229377104376
 Workforce Management Analyst,Administrative and Support Service Activities,"Business support service activities, n.e.c.",Higher Education,No,No,1.1966462559768865,0.6319444444444445
 Workforce Wellness Coordinator,Human Health and Social Work Activities,"Other social work activities without accommodation, n.e.c.",Higher Education,No,Yes,1.5056696701614034,0.6302777777777777
 Worship Musician,"Arts, Entertainment and Recreation","Creative, arts and entertainment activities",Higher Education,No,No,-0.0481137107809598,0.5141666666666667

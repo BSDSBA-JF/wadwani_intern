@@ -189,7 +189,9 @@ Coastal Resource Assistant,"Agriculture, Forestry, and Fishing",Aquaculture,High
 Coconut Farmer,"Agriculture, Forestry, and Fishing",Support activities to agriculture and post-harvest crop activities,Not Higher Education,No,No,9211.0,9211,45-2099
 Cocoon Farmer,"Agriculture, Forestry, and Fishing",Animal production,Not Higher Education,No,No,6128.0,6123,45-2021
 Coffee Farmer Nursery Operator,"Agriculture, Forestry, and Fishing",Growing of perennial crops,Not Higher Education,No,No,6117.0,6112,45-2091
+Cold Storage Technician,Manufacturing                                                ,Installation of industrial machinery and equipment,Higher Education,No,No,,,51-9193
 Commercial Air-Conditioning Unit Technician,"Electricity, Gas, Steam and Air Conditioning Supply",Airconditioning and Refrigeration,Not Higher Education,No,No,7127.0,7127,49-9021 
+Commercial Diver,Transportation and Storage,"Sea and coastal water transport, Inland water transport",Not Higher Education,No,No,,,53-5021
 Commercial Refrigeration Equipment Technician,"Electricity, Gas, Steam and Air Conditioning Supply",Airconditioning and Refrigeration,Not Higher Education,No,No,7127.0,7127,49-9021 
 Commis Chef,Accommodation and Food Service Activities,Restaurants and mobile food service activities,Higher Education,No,No,3434.0,3434,35-1012
 Commis Helper,Accommodation and Food Service Activities,Restaurants and mobile food service activities,Not Higher Education,No,No,9412.0,9412,35-9099 
@@ -286,6 +288,7 @@ Delivery Driver,Transportation and Storage,Support activities for transportation
 Demi Chef,Accommodation and Food Service Activities,Restaurants and mobile food service activities,Higher Education,No,No,3434.0,3434,35-1012
 Dental Hygienist,Human Health and Social Work Activities,Medical and dental practice activities,Not Higher Education,No,No,3251.0,3251,31-9091
 Dental Laboratory Assistant,Human Health and Social Work Activities,Medical and dental practice activities,Not Higher Education,No,No,3251.0,3251,31-9091
+Dental Laboratory Technician,Human Health and Social Work Activities,Medical and dental practice activities,Not Higher Education,No,No,,,51-9082
 Dentist,Human Health and Social Work Activities,Medical and dental practice activities,Higher Education,Yes,No,2261.0,2261,29-1029
 Dermopigmentation/Tattoo Artist,"Arts, entertainment and recreation","Creative, arts and entertainment activities",Not Higher Education,No,No,3435.0,3435,39-3099 
 Design Engineer,"Professional, Scientific and Technical Activities",Architectural and engineering activities and related technical consultancy,Higher Education,Yes,No,2141.0,2141,17-2112
@@ -294,6 +297,7 @@ Development Planning Associate,"Professional, Scientific and Technical Activitie
 Development Researcher,Public Administration and Defense; Compulsory Social Security,Public Administration,Higher Education,No,No,2310.0,2310,25-1199
 Dialysis Nurse,Human Health and Social Work Activities,Medical and dental practice activities,Higher Education,Yes,No,2221.0,2221,29-1171 
 Diesel Power Plant Operator,"Electricity, Gas, Steam and Air Conditioning Supply","Electric power generation, transmission and distribution",Not Higher Education,No,No,3131.0,3131,51-8013
+Digital Background Painting,Information and Communication,"Motion picture, video and television programme activities",Higher Education,No,No,,,27-1014
 Digital Content Strategist,"Professional, Scientific and Technical Activities",Advertising,Higher Education,No,No,2513.0,2513,15-1134 
 Digital Fabrication Machine Operator,Manufacturing                                                ,Manufacture of general purpose machinery,Not Higher Education,No,No,7223.0,7223,51-4199
 Digital Marketing Specialist,"Professional, Scientific and Technical Activities",Advertising,Not Higher Education,No,No,2431.0,2431,27-3043 
@@ -371,6 +375,7 @@ ESL Trainer,Education,Other Education,Higher Education,No,No,2356.0,2356,13-1151
 Estimator,Transportation and Storage,Warehousing and storage,Higher Education,Yes,No,2149.0,2149,17-2199
 Ethics Research Assistant,"Professional, Scientific and Technical Activities",Research and experimental development on social sciences and humanities,Higher Education,No,Yes,2310.0,2310,25-1199
 EU Policy Analyst,"Professional, Scientific and Technical Activities",Research and experimental development on social sciences and humanities,Higher Education,No,No,2422.0,2422,13-1199
+EV Battery Automotive Mechanic,Manufacturing                                                ,Manufacture of batteries and accumulators,Not Higher Education,No,No,,,49-2093
 Events Assistant,Administrative and Support Service Activities,"Business support service activities, n.e.c.",Higher Education,No,Yes,3332.0,3332,13-1121
 Executive Assistant (Airline),Administrative and Support Service Activities,Office administrative and support activities,Higher Education,No,Yes,3343.0,3343,43-6011
 Executive Secretary,Administrative and Support Service Activities,Office administrative and support activities,Higher Education,No,Yes,3343.0,3343,43-6011
@@ -428,6 +433,7 @@ Florist,Other Service Activities,"Personal services for wellness, except sports 
 Food and Beverage Attendant,Accommodation and Food Service Activities,Restaurants and mobile food service activities,Higher Education,No,Yes,5131.0,5131,35-3041 
 Food Processing Worker,Manufacturing                                                ,Manufacture of other food products,Not Higher Education,No,No,7511.0,7511,51-3091 
 Food Product Developer,Accommodation and Food Service Activities,Restaurants and mobile food service activities,Higher Education,No,No,3434.0,3434,35-1012
+Food Safety Auditor,Manufacturing                                                ,Manufacture of other food products,Higher Education,Yes,No,,,13-1041
 Food Safety Officer,Accommodation and Food Service Activities,Event catering and other food service activities,Higher Education,No,No,3257.0,3257,53-6051
 Food Service Worker,Accommodation and Food Service Activities,Restaurants and mobile food service activities,Higher Education,No,No,5246.0,5246,35-9011 
 Food Technologist,"Agriculture, Forestry, and Fishing",Support activities to agriculture and post-harvest crop activities,Higher Education,Yes,No,2132.0,2132,25-9021
@@ -471,6 +477,7 @@ Green Coffee Beans Processor,"Agriculture, Forestry, and Fishing",Support activi
 Ground Operations Crew Member,Transportation and Storage,"Passenger air transport, Freight air transport",Higher Education,No,No,5111.0,5111,53-6061
 GTAW/TIG Welder,Construction,Other specialized construction activities,Not Higher Education,No,No,7212.0,7212,51-4122 
 Guest Relations Associate,Accommodation and Food Service Activities,Short term accommodation activities,Higher Education,No,Yes,4224.0,4224,43-4081
+HACCP Coordinator,Manufacturing                                                ,Manufacture of other food products,Higher Education,No,No,,,13-1041
 Hairdresser,Other Service Activities,"Personal services for wellness, except sports activities",Not Higher Education,No,No,5141.0,5141,39-5012
 Halal Compliance Specialist,Manufacturing,Manufacture of other food products,Higher Education,No,No,2632.0,2632,19-3092
 Halal Seaweed Processing Worker,Manufacturing                                                ,"Processing and preserving of fish, crustaceans and mollusks",Not Higher Education,No,No,6222.0,6221 p,51-9199
@@ -562,6 +569,7 @@ Java Programmer,Information and Communication,"Computer programming, consultancy
 Jobs Coordinator (Transportation and Storage),Transportation and Storage,Support activities for transportation,Higher Education,No,Yes,4416.0,4416,43-4161 
 Judicial Assistant,Public Administration and Defense; Compulsory Social Security,Justice and Judicial Activities,Higher Education,No,Yes,3411.0,3411,33-9031
 Junior AI Data Governance Officer,Information and Communication,"Data processing, hosting and related activities; web portals",Not Higher Education,No,No,2521.0,2521,15-1141
+Junior Airline Accounting Clerk,Transportation and Storage,"Passenger air transport, Freight air transport",Higher Education,Yes,No,,,43-3011
 Junior Applications Analyst,Information and Communication,"Computer Programming, Consultancy and Related Activities",Higher Education,No,No,2512.0,2512,15-1133
 Junior Architectural Technologist,"Professional, Scientific and Technical Activities",Architectural and engineering activities and related technical consultancy,Higher Education,Yes,No,2161.0,2161,17-1011
 Junior Associate (Consulting),"Professional, Scientific and Technical Activities",Management consultancy activities,Higher Education,No,Yes,2421.0,2421,13-1111
@@ -671,6 +679,7 @@ Machinist,Manufacturing                                                ,Manufact
 Magician,"Arts, entertainment and recreation",Other amusement and recreation activities,Not Higher Education,No,No,2659.0,2659,27-2099
 Mail and Document Clerk,Transportation and Storage,"Postal activities, Courier activities",Higher Education,No,Yes,4412.0,4412,43-9051
 Maintenance Fitter,Manufacturing                                                ,"Other manufacturing, n.e.c.",Higher Education,No,No,7233.0,7233,49-9081
+Maintenance Laborer,Construction,Construction of buildings,Not Higher Education,No,No,,,49-9071
 Maintenance Line Worker,"Electricity, Gas, Steam and Air Conditioning Supply","Electric power generation, transmission and distribution",Not Higher Education,No,No,7413.0,7413,49-9051
 Maintenance Technician,Manufacturing                                                ,"Other manufacturing, n.e.c.",Higher Education,No,Yes,3115.0,3115,17-3029
 Maintenance Technician (Construction),Construction,Building completion and finishing,Not Higher Education,No,No,7411.0,7411,47-2231
@@ -728,6 +737,7 @@ Metadata Specialist,Information and Communication,Other information service acti
 Metallurgical Technician,"Professional, Scientific and Technical Activities","Other professional, scientific and technical activities, n.e.c.",Higher Education,No,Yes,3117.0,3117,19-4041
 Microbiology Lab Assistant,"Professional, Scientific and Technical Activities",Research and experimental development on natural sciences and engineering,Higher Education,No,Yes,2131.0,2131,19-1099
 Microfinance Loan Officer,Financial and Insurance Activities,Monetary intermediation,Not Higher Education,No,No,3312.0,3312,13-2072 
+Milk Processing Technician,Manufacturing                                                ,Manufacture of dairy products,Higher Education,No,No,,,51-9193
 Millwright,Construction,Construction of buildings,Higher Education,No,No,7233.0,7233,49-9081
 Mine Safety Engineer,Mining and Quarrying,Mining of Metal Ores,Higher Education,Yes,No,2149.0,2149,17-2199
 Ministry Program Assistant,Human Health and Social Work Activities,"Other social work activities without accommodation, n.e.c.",Higher Education,No,Yes,4111.0,,43-406
@@ -855,6 +865,7 @@ Processing Staff/Worker,"Agriculture, Forestry, and Fishing",Post-harvest crop a
 Procurement Associate,Real Estate Activities,Real Estate Activities on a Fee or Contract Basis,Higher Education,Yes,No,3323.0,3323,13-1023
 Procurement Staff (Construction),Construction,Construction of buildings,Higher Education,Yes,No,3323.0,3323,13-1023
 Product Development Assistant,"Professional, Scientific and Technical Activities","Other professional, scientific and technical activities, n.e.c.",Higher Education,No,Yes,3111.0,3111,19-4099
+Product Development Technician,Manufacturing                                                ,Manufacture of other food products,Higher Education,Yes,No,,,17-2199
 Product Quality Inspector,Manufacturing                                                ,"Other manufacturing, n.e.c.",Higher Education,No,No,7543.0,7543,51-9061 
 Production Machine Operator,Manufacturing                                                ,Manufacture of general purpose machinery,Not Higher Education,No,No,8219.0,8219,51-2099
 Production Plant Assistant,Manufacturing                                                ,"Other manufacturing, n.e.c.",Higher Education,No,Yes,7412.0,7412,49-9097
@@ -894,6 +905,7 @@ Quality Controller,"Agriculture, Forestry, and Fishing",Post-harvest crop activi
 Quality Improvement Analyst,Manufacturing                                                ,"Other manufacturing, n.e.c.",Higher Education,No,No,2519.0,2519,15-1199
 Quantity Surveyors (Construction),Construction,Demolition and site preparation,Not Higher Education,No,No,2149.0,2149,17-2199
 R&D Chef,Accommodation and Food Service Activities,Restaurants and mobile food service activities,Higher Education,No,No,4416.0,4416,43-4161 
+R&D Food Specialist,Manufacturing                                                ,Manufacture of other food products,Higher Education,Yes,No,,,19-1012
 Radiation Therapist,Human Health and Social Work Activities,Medical and dental practice activities,Higher Education,Yes,No,3211.0,3211,29-2035 
 Radiation Therapy Assistant,Human Health and Social Work Activities,Other human health activities,Higher Education,No,Yes,3211.0,3211,29-2035 
 Radio Producer Assistant,Information and Communication,Radio broadcasting,Higher Education,No,Yes,2642.0,2642,27-3041 
@@ -968,6 +980,7 @@ Security Guard,Administrative and Support Service Activities,Private security ac
 Security Operations Center (SOC) Analyst,Information and Communication,"Data processing, hosting and related activities; web portals",Not Higher Education,No,No,2529.0,2529,15-1199
 Security Operations Staff,Administrative and Support Service Activities,Private security activities,Higher Education,No,No,5414.0,5414,33-9093 
 Semiconductor Machine Technician,Manufacturing                                                ,Manufacture of electronic components,Not Higher Education,No,No,3114.0,3114,17-3023
+Semiconductor Operator,Manufacturing                                                ,Manufacture of electronic components,Not Higher Education,No,No,,,51-9161
 Semiconductor Production Operator,Manufacturing                                                ,Manufacture of electronic components,Not Higher Education,No,No,8189.0,8189,53-7011
 Seminary Support Staff,Human Health and Social Work Activities,"Other social work activities without accommodation, n.e.c.",Higher Education,No,No,4111.0,,21-2099
 Senior Caregiver,Human Health and Social Work Activities,Residential care activities for the elderly and disabled,Not Higher Education,No,No,5321.0,5321,31-1014 
@@ -1117,7 +1130,9 @@ Warehouseman (Healthcare),Human Health and Social Work Activities,Hospital activ
 Waste Handler (Manufacturing),Manufacturing                                                ,Manufacture of other food products,Not Higher Education,No,No,9611.0,9611,53-7081
 Waste Management Officer (Manufacturing),Manufacturing                                                ,"Other manufacturing, n.e.c.",Higher Education,No,No,3257.0,3257,53-6051
 Waste Officer (Healthcare),Human Health and Social Work Activities,Hospital activities,Higher Education,No,No,3257.0,3257,53-6051
+Wastewater Treatment Specialist,"Water Supply; Sewerage, Waste Management and Remediation     ",Waste treatment and disposal,Higher Education,Yes,No,,,51-8031
 Water Quality Analyst,"Water Supply; Sewerage, Waste Management and Remediation     ","Water collection, treatment and supply",Higher Education,No,No,2133.0,2133,19-2041 
+Water Quality Engineer,"Water Supply; Sewerage, Waste Management and Remediation     ","Water collection, treatment and supply",Higher Education,Yes,No,,,17-2071
 Water Well Installer,Construction,"Electrical, plumbing and other construction installation activities",Not Higher Education,No,No,8113.0,8113,53-7073
 Waterside Worker,Transportation and Storage,Sea and coastal water transport,Not Higher Education,No,No,9333.0,9333,53-7121
 Web Application Developer,Information and Communication,"Computer programming, consultancy and related activities",Not Higher Education,No,No,2513.0,2513,15-1134 
