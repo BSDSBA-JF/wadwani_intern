@@ -1,0 +1,16 @@
+Student discussion data was collected from publicly available social media platforms, primarily Facebook Freedom Wall pages related to the University of Nueva Caceres and relevant Reddit discussions. Facebook posts and comments were scraped using the Apify web-scraping platform, which extracts post text, comment text, timestamps, and engagement metrics such as reactions and likes. Reddit data was collected from relevant discussions and exported into CSV format for processing.
+
+The raw datasets were translated to English when necessary and standardized into a unified format containing platform, content type (post or comment), text, translated text, date, engagement metrics, and unique identifiers. After cleaning and merging the datasets, the final dataset used for analysis contains 1,068 total data points across Facebook posts, Facebook comments, and Reddit discussions. This unified dataset served as the basis for the sentiment analysis and thematic clustering presented in the report.
+
+Facebook Discussion Sources
+https://www.facebook.com/greyhoundfreedomwall/
+
+Reddit Discussion Sources
+https://www.reddit.com/r/NuevaCaceres/comments/1r8srlg/jhs/
+https://www.reddit.com/r/NuevaCaceres/comments/1ply212/i_need_a_friend/
+https://www.reddit.com/r/NuevaCaceres/comments/1nv56rs/hows_the_semester_so_far/
+https://www.reddit.com/r/NuevaCaceres/comments/1l6h845/bakit_sa_unc/
+https://www.reddit.com/r/NuevaCaceres/comments/1la8ykd/bsn_environment/
+https://www.reddit.com/r/NuevaCaceres/comments/1leauli/2025_the_times_higher_ranking/
+https://www.reddit.com/r/NuevaCaceres/comments/1lzehgk/looking_for/
+https://www.reddit.com/r/NuevaCaceres/comments/1m90anf/how_to_know_my_block_section/
